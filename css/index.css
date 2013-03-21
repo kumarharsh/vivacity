@@ -1,0 +1,393 @@
+/* The main css stylesheet for the vivacity site */
+body {  
+	margin:0px; padding:0px;  
+	background:url(images/back-main.gif) #181818 top center no-repeat;
+	font-family:Arial, Helvetica, sans-serif;  
+	color:#7f7d78;
+	font-size:13px;  
+	line-height:19px;
+}  
+
+html, body, #main {height: 100%;}
+
+body > #main {height: auto; min-height: 100%;}
+
+#main {
+}
+
+.container {  
+    width:99%;
+    margin:0 auto;
+}
+
+#main .container {margin-bottom:-100px;}  /* must be same height as the footer */
+
+/* The header contents */
+#header {
+	background:url(images/bg-header.png) repeat-x;
+	padding-top:30px;
+}
+
+#logo {
+	position:absolute;
+	right:5px;
+	padding-top:0px;
+	z-index:2;
+}
+#logo a, #logo a img {
+	border:none;
+	z-index:2;
+}
+
+/* update ticker defined here */
+#updates {
+	height:30px;
+	position:absolute;
+	top:0px;
+	right:90px;
+	width:100%;
+}
+
+#ticker_btn {
+	position:relative;
+	float:right;
+	right:1px;
+	width: 114px;
+	height: 28px;
+	z-index:1;
+}
+#ticker_btn a {
+	display: block;
+	width: 130px;
+	height: 30px;
+	background:url(images/updates.png) no-repeat top left;
+}
+#ticker_btn a:hover {
+	background-position: bottom left;
+}
+.dmarquee {
+	overflow:hidden;
+}
+#ticker {
+	position:relative;
+	width:99%;
+	margin-right:120px;	left:1px;
+	visibility:visible;
+	color:#FFF;
+	font-size:11px;	font-family:Arial, Helvetica, sans-serif;
+}
+.updateTitle {
+	margin-left:30px;	margin-right:5px;
+	color:#3CF;	text-transform:uppercase;
+	font-weight:bold;	font-size:12px;
+}
+.updateDesc a {	color:#FFF;	font-weight:bold; text-decoration:none }
+.updateDesc a:hover {	color:#FF8;	font-weight:bold; }
+
+
+/* ************ The login Add-in **************/
+#login {
+	background:#CCC;
+	border:3px #000 solid;
+	border-top:none;
+	position:absolute;
+	left:200px;
+	width:200px;
+	display:block;
+}
+#loginBox {
+	padding:5px;
+}
+#loginBox label {
+	color:#333;
+	font-size:10px;
+	text-transform:uppercase;
+	width:70px;
+}
+#loginBox input {
+	color:#333;
+	width:100px;
+	font-size:12px;
+}
+#loginError {
+	visibility:hidden;
+	display:none;
+}
+
+#pull { font-family:Verdana, Arial, Helvetica, sans-serif;
+		background:#000;
+		text-align:center; text-transform:uppercase; font-size:12px; font-weight:bold; }
+#pull a {color:#CCC; text-decoration:none;}
+#pull a:hover, #pull a:active {color:#FFF; text-decoration:none;}
+/* ********* Login Add-in ends here *************** */
+
+/* The sponsor ticker*/
+#sponsors {
+	background:url(images/sponsor.png);
+	position:absolute;
+	left:5px;
+	padding-top:0px;
+	width:170px;
+	display:block;
+}
+#sponsorImage {
+	display:table-cell;
+	vertical-align:middle;
+	position:relative;
+	width:150px;
+	height:90px;
+	top:0px;
+}
+#sponsorDesc {
+	position:relative;
+	width:150px;
+	height:20px;
+	display:block;
+	clear:both;
+	text-align:center;
+	color:#FFF;
+}
+
+/* The links manu */
+#links {
+	position:fixed;
+	bottom:0px;
+	margin:0 auto;
+	height:40px;
+	display:block;
+}
+#links a img { border:none; float:left; padding:0 3px; display:inline; }
+#links a:hover img {bottom:-5px;}
+
+/* menubar, menu items, and sub-items */
+ul#menuBar, ul.submenu {
+	display:block;
+    margin:0px; padding:0px;
+	position:absolute;
+	right:140px;
+}
+ul.submenu {  
+    margin-top:20px;
+	right:400px;
+	visibility:hidden;
+}
+
+ul#menuBar li, ul.submenu li {
+    display:inline;  
+    margin-left:12px;  
+}
+
+ul#menuBar li a, ul.submenu li a {
+	text-decoration:none;
+	color:#000; 	opacity:1;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+ul#menuBar li a.active, ul#menuBar li a:hover {
+	border-bottom:5px solid; opacity:1;
+}
+
+ul.submenu li a {
+	font-size:10px;
+}
+
+ul.submenu li a.active, ul.submenu li a:hover {  
+    color:#111; 	opacity:1;
+}
+
+/* the information block */
+.block {
+    margin-bottom:20px;
+	margin-left:30%;
+	right:20px;
+}
+
+.block_inside {   
+    display:table;
+	background:url(images/holder-back.png) top left;
+	padding-right:5px;
+	width:100%;
+}    
+.image_block {  
+	margin-right:10px;
+    background-color:#ddd;  
+    float:left;
+	height:190px;
+	width:190px;
+}  
+.text_block {
+	display:table-cell;
+	vertical-align:middle;
+	top:50%;
+ 	padding:5px;
+	width:inherit;
+    margin-left:-100%;
+	text-align:justify;
+}
+.block h3 {
+	font-size:16px; color:#FFF;	font-weight:bold;}
+.block p{ top:-5px; font-size:12px; color:#FFF;}
+.block a{ color:#FFF; font-weight:bold; text-decoration:none; }
+.block a:hover{ text-decoration:underline; }
+
+/* paragraph and other block-level elements */
+p { margin: 0px 0px 5px 0px; }
+
+/* common elements defined here
+ * all the elements styled here will be constant throughout the site */
+#menubar a, #footer a {
+	text-decoration:none;
+	color:#DDD;
+	font-family:Verdana, Arial, Helvetica, sans-serif;  
+	font-size:10px;  
+	font-weight:bold;  
+	text-transform:uppercase;
+}
+#menubar a:active, #menubar a:hover, #footer a:active, #footer a:hover {
+	text-decoration:underline;
+	color:#FFF;
+}
+
+a img {
+	border:none;
+}
+
+/* footer defined here */
+#footer {
+	clear:both;
+	display:block;		position:relative;
+	width:100%;			height:auto;
+	bottom:0px;
+	background:url(images/footer-dots.png) repeat #000;	color:#000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;  
+	font-size:11px;
+	border-top:2px solid #999;
+}
+
+#footer-wrap {
+	overflow:auto;
+	margin:0 auto;
+	color:#CCC;
+	bottom:0px;
+	text-align:left;
+}
+.footerColumn {
+	padding:20px 5px;
+	float:right;
+	width:25%;
+	overflow:auto;
+	text-align:center;
+}
+.footerColumn b {
+	text-decoration:underline;
+}
+#footer a {
+	color:#FFF;	font-size:10px; text-transform:none;
+}
+#footer a:hover {
+	color:#FFF;	font-weight:bold; font-size:12px;
+}
+
+/* these are the styling for the form elements */
+.formAnnotation {
+	margin:0px 0px 10px 190px;
+	width:400px;
+	color: #CCC;
+	font-style:italic;
+	font-size:12px;
+}
+
+label{
+	float: left;
+	width: 180px;
+	color:#CCC;
+	padding-right:10px;
+	font-weight:bold;
+	font-size:15px;
+	text-align:right;
+}
+input {
+	width: 200px;
+	margin-bottom: 5px;
+}
+.formHeader {
+	color:#333;
+	background:#FFF;
+	width:300px;
+	font-size:16px;
+	margin-top:20px;
+	padding-left:20px;
+	text-align:left;
+}
+.formWrapper {
+	padding-top:10px;
+	clear:both;
+	overflow:visible;
+	border:1px #fff solid;
+	border-bottom-color:#eee;
+	border-right-color:#eee;
+	background:url('images/holder-back.png') #000;
+}
+form hr { width:300px; margin-left:190px; }
+
+/* the sexy CSS buttons */
+#login .btn {
+	background:#666;
+	padding:1px 2px 2px 2px;
+	margin:5px 5px;
+	display:inline;
+	float:right;
+	overflow:hidden;
+}
+#login .btn a {
+	text-decoration:none;
+	font-size:10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	text-align:center;
+	color:#FFF;
+	background:#666;
+	padding:1px 3px;
+	border:1px solid #CCC;
+	color:#CCC;
+}
+#login .btn a:hover {
+	background:#333;
+	color:#FFF;
+}
+
+.btnRegister {
+	background:#6C0;
+	padding:5px 2px;
+	margin:5px 5px;
+	display:inline;
+}
+.btnRegister a {
+	text-decoration:none;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	text-align:center;
+	color:#FFF;
+	background:#6C0;
+	padding:1px 3px;
+	border:2px solid #FFF;
+}
+.btnRegister a:hover {
+	text-decoration:none;
+	background:#390;
+	color:#FFF;
+}
+.properties .label {
+  text-align: right;
+}
+
+/* the spacing elements */
+.spacer {
+	clear:both;
+	width:100%;
+	height:50px;
+}

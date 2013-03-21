@@ -1,0 +1,1012 @@
+﻿<?xml version="1.0"?>
+<xmlresponse> 
+<CAT> 
+<NAME>Cultural</NAME> 
+<PATH>Assets/culture.jpg</PATH> 
+<ROOT>All Events</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Technical</NAME> 
+<PATH>Assets/tech.jpg</PATH> 
+<ROOT>All Events</ROOT>  
+</CAT> 
+<CAT> 
+<NAME>Management</NAME> 
+<PATH>Assets/manag.jpg</PATH> 
+<ROOT>All Events</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Workshops</NAME> 
+<PATH>Assets/Events/Workshops/workshops.jpg</PATH> 
+<ROOT>All Events</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Specials</NAME> 
+<PATH>Assets/Events/Specials.jpg</PATH> 
+<ROOT>All Events</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Dance</NAME> 
+<PATH>Assets/Events/Dance/Dance-Category.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Drama</NAME> 
+<PATH>Assets/Events/Drama/Drama-Category.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Literary</NAME> 
+<PATH>Assets/Events/Literary/Literary.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Music</NAME> 
+<PATH>Assets/Events/Music/Music.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>FunShaala</NAME> 
+<PATH>Assets/game.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Online Events</NAME> 
+<PATH>Assets/Events/Online Events/online.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Gaming</NAME> 
+<PATH>Assets/Events/Gaming/gaming.jpg</PATH> 
+<ROOT>Technical</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Web Dev</NAME> 
+<PATH>Assets/web-dev.jpg</PATH> 
+<ROOT>Technical</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Programming</NAME> 
+<PATH>Assets/prog.jpg</PATH> 
+<ROOT>Technical</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Robotics</NAME> 
+<PATH>Assets/robotics.jpg</PATH> 
+<ROOT>Technical</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Art N Craft</NAME> 
+<PATH>Assets/Events/Art N Craft/art-and-craft.jpg</PATH> 
+<ROOT>Cultural</ROOT> 
+</CAT> 
+<CAT> 
+<NAME>Electronics</NAME> 
+<PATH>Assets/electronics.jpg</PATH> 
+<ROOT>Technical</ROOT> 
+</CAT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/Mad-Ad.jpg</PATH> 
+<EVENTID>1</EVENTID> 
+<R>Ad Mad</R> 
+<V>Ad Mad</V> 
+<DESC><![CDATA[Every business endeavor targets a certain clientele and good advertising goes a long way in keeping them interested. Ad Mad is an event for those people who are frenzied about the product ads. If you have the power of presenting and can attract the client towards your product then start gearing up yourself for Ad Mad, which challenges your imagination to think big and think new!! <br/><br/><b>Schedule:</b><br/>Prelims-13:30 to 14:00     21<sup>st</sup> Feb<br/>Finals - 14:30 to 15:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[Date for prelims : 21st february for 30 min><br/> - No. of participants in a team should be a maximum of 3.<br/>- There will be 2 rounds in total.<br/>- 1st round will be the qualifying round in which the teams will be asked to answer the questions on the written paper about the ads.<br/>- The duration of the 1st round will be 30 minutes.<br/>- The final round will consist of the four best teams qualified in the 1st round.<br/>- The final round will consist of different segments which may include visual clips, or you may be asked to advertise any product, and many others.<br/>- The decision of the judges and the organizing committee will be last and final.<br/>- Cheating and unfair means will imply instant disqualification.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:rahulseth.lnmiit@gmail.com'>Rahul Seth</a></b>  94605 73301<br/><b><a href ='mailto:shahsaurabh30@gmail.com'>Saurabh Shah</a></b>  97993 78098]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.10500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5000/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/biz-quiz.jpg</PATH> 
+<EVENTID>2</EVENTID> 
+<R>Business Quiz</R> 
+<V>Biz Quiz</V> 
+<DESC><![CDATA[<i>The winners in life persistently ponder over what they can, they will and they must.</i><br/><br/>Do you think you have better business sense than Warren Buffet or have the calibre to keep track with Donald Trump, then BizQuiz is a platform just for that!!!<br/>The right man is the one who seizes the moment because it is a cut-throat business world. Over the years, our BizQuizzes have been nail biting experiences with extraordinary nuggets of trivia and this year they promise to be no different.<br/><br/><b>Schedule:</b><br/>Prelims-11:30 to 12:30     19<sup>th</sup> Feb<br/>Finals - 17:30 to 18:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<br />- Each team will consist of two members of the same college. <br />- There will be a written preliminary round. <br />- Only 4 teams will qualify for the final(oral) round on the basis of their scores in prelims.<br/>-In case of any discrepancies organizers decision will be final and binding. ]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:ag.saurabh89@gmail.com'>Saurabh Agrawal</a></b>  94135 03760<br/><b><a href ='mailto:iitianpraveen@gmail.com'>Praveen Patel</a></b>  94614 27677 ]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.6500/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/Bluff-Master.jpg</PATH> 
+<EVENTID>3</EVENTID> 
+<R>BluffMaster</R> 
+<V>BluffMaster</V> 
+<DESC><![CDATA[Four contestants and one amongst them, the Bluff Master has all the answers to the questions. Contestants need to identify the Bluff Master. So use your intuition, answer the questions correctly and the one who survives till the end takes away the prize.<br/><br/><b>Schedule:</b><br/>11:30 to 13:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- A total of 4 players will be chosen randomly from the audience.><br/>- Each player will be asked to pick up ballet in random, only one of which shall contain the Bluff Master ballet. <br/>- If any honest player in the show has to win, then that player has to expose the correct Bluff Master. <br/>- Each ballet will comprise of a question for which only the Bluff Master ballet has all answers in the desired format. <br/>- Each question will have 10 different answers, which are allotted with a score of 10 points to 100 points, depending upon the popularity of the answer. There is as such, no right or wrong answer. <br/>- The players will be asked to give their answers to each question. If their answer happens to be on the list, points are awarded based on the popularity of the answer, i.e. the most uncommon answer on the list gets the maximum points while the most common answer fetches the least number of points. <br/>     - At the end of each round, the players are asked to identify the Bluff Master through a vote out. If the Bluff Master is identified, the player has to forfeit the game &amp; the game continues with another player being chosen as Bluff Master randomly as the above process. In case if a Bluff Master is identified wrongly, then that person has to leave the game show. The scores of remaining players are reduced to half of their previous value. <br/>     - The game continues with the subsequent rounds and steps 5-7 are repeated until we have only 2 players remaining in the show. <br/>     - For the last 2 players, the audience is asked for a vote out. If the Bluff Master is voted out, the honest player wins. While if the honest player is wrongly voted as the Bluff Master, then the original Bluff Master wins the game.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:ankita.lnmiit@lnmiit.ac.in'>Ankita Kothari</a></b>  94136 52038<br/><b><a href='mailto:shinjinee.upadhyay@gmail.com'>Shinjinee Upadhyay </a></b>  96022 47357]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/bplan.jpg</PATH> 
+<EVENTID>4</EVENTID> 
+<R>B Plan Description</R> 
+<V>Biz Wits</V> 
+<DESC><![CDATA[Do you think you have enough acumen to become the next Lawrence Page or Richard Branson? Have got a surging business idea? This event gives the platform to leverage it! Here is a chance to divulge it and give it a push. Business plans are a threshold to any successful entrepreneurial activity. Brush up your wits and gear up your ideas to grab a huge prize money. Come up with your bizarre and edgy strategies and convince the masses of its feasibility. More the appealing, the better are your chances to hit the jackpot. It gives your entrepreneurial career a spark in the business realms...<br/><br/><b>Schedule:</b><br/>10:00 to 12:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- The event will be held in 2 stages.><br/>- Participation has to be in teams of at most 3 members. <br/>- Event will be held in two rounds: preliminary and finals. <br/>- In the preliminary rounds team will have to submit an executive summary online. <br/>- Teams will be shortlisted on the basis of executive summary description submitted online in the preliminaries. <br/>- The shortlisted teams will have to give presentation during the vivacity in ppt format. <br/>- The decision of judges will be final and binding. <br/><b>Executive summary:</b>  <br/>- A description of a company including your products and services. <br/>- Mission statement overview of marketing and sales competitive advantage ,business operation, financial projections and plans. <br/>- Projected growth investment and returns. <br/>The business plan should contain: <br/>  - An Executive Summary<br/>  - Market Analysis<br/>  - Business and product/service description<br/>  - Marketing &amp; Sales Strategies<br/>  - Management &amp; Ownership<br/>  - Financial Analysis<br/><br/><b>UPDATE</b><br>The last date of submission of executive summary of the B-Plan is 12:00 Noon, 17th of February 2010. All the submissions are to be made on <u>management.vivacity@gmail.com</u>]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:management.vivacity@gmail.com'>Kavish Gakhar</a></b>  94149 75192 <br/><b><a href='mailto:management.vivacity@gmail.com'>Ritika</a></b>  94629 66383]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.19000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.10000/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/brandpublicia.jpg</PATH> 
+<EVENTID>5</EVENTID> 
+<R>Brand Advertisement</R> 
+<V>Brand Publicia</V> 
+<DESC><![CDATA[<i>'Count on us'</i> says Maruti Suzuki and <i>'Desh ki Dhadkan'</i> is HERO HONDA but nobody believes in your product unless it has a brand image like Maruti or Hero Honda. A great brand raises the bar -- it adds a greater sense of purpose to the experience, the affirmation that the cup of coffee you're drinking really matters. Branding has become a vital part of marketing any product. The marketing strategies, a brand`s creation, its maintenance, its recognition, its value, the study is vast and extensive yet inevitable, brand publicia is here to test your skills..<br/><br/><b>Schedule:</b><br/>13:30 to 15:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<a href='rules/brandpublicia.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/brandpublicia.pdf'>Download Problem Statement</a><br/><br/>- Team Size: At most 3.<br/>- Event will be held in two rounds.<br/>- 1st round will be online or on the spot submission of pdf files.<br/>- Selected teams for final round will have to give a presentation during Vivacity. <br/>- The presentation should not exceed 10 minutes.- <br/>The questioning round will follow after the presentation.]]></RULES> 
+<CONTACT><![CDATA[<b><a href=' mailto:management.vivacity@gmail.com '>Aditya Joshee</a></b>   94135 21049<br/><b><a href=' mailto:management.vivacity@gmail.com '>Anshul Goel</a></b>  99502 91005<br/> ]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.12500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7500/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Art N Craft/Canvas-Painting.jpg</PATH> 
+<EVENTID>6</EVENTID> 
+<R>Canvas Painting</R> 
+<V>A New Dimension</V> 
+<DESC><![CDATA[Canvas is love furnished by nature and embroidered by imagination. Musicians paint their pictures on silence but a painter paints his pictures on canvas.><br/>A sincere artist is not one who makes a faithful attempt to put on to canvas what is in front of him, but one who tries to create something which is, in itself, a living thing. <br/>A great artist can paint a great picture on a small canvas.. We will provide the stage, and you showcase your soul!!<br/><br/><b>Schedule:</b><br/>12:00 to 14:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Hard Bound Canvas, oil colors, brushes and other necessary materials will be provided .><br/>- The total members in a particular team can be at most two. <br/>- Theme will be provided on the spot. <br/>- Any sort of cheating(rough sketches, self claimed possessions) will lead to disqualification. <br/>- Duration will be of 1:15 hrs. <br/>- Registrations will open during the fest on first come first serve basis. <br/>- Appropriate fees will be levied for the event @ the time of registration. <br/>- In case of any discrepancy, Judges decision will be final.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:nehabaheti16@gmail.com'>Neha Baheti</a></b>  93519 18795<br/><b><a href ='mailto:shilpasarawagi4@gmail.com '>Shilpa Sarawagi</a></b>  93148 02769]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Rs.3000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Art N Craft</ROOT> 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/Debate.jpg</PATH> 
+<EVENTID>7</EVENTID> 
+<R>Debate</R> 
+<V>Word War</V> 
+<DESC><![CDATA[<b>English Debate(19th Feb)</b><br/>10:00 AM - 11:00 AM : Group Discussion<br/>11:30 AM - 1:00 PM : Prelims  Round<br/>2:30 PM - 3:30 PM : Final Round<br/><ul><li>GD topics will be disclosed at the venue itself.</li><li>Four teams qualify from GD for the the prelims round.</li><li>Any one of the following topic will be given for the prelims round.</li></ul><br/><br/><b>English Debate (19th Feb) prelims round topics-</b><ul><li>Education should be vocational in nature.</li><li>Students should not participate in reality shows.</li></ul><br/><br/><b>Hindi Debate(20th Feb)</b><br/>10:00 AM - 11:00 AM : Group Discussion<br/>11:30 AM - 1:00 PM : Prelims  Round<br/>3:00 PM - 4:00 PM : Final Round<br/><br/><br/><b>Hindi Debate(Feb 20) prelims round topics-</b><ul><li>There should a minimum educational qualification for holding any political position.</li><li>Western lifestyle makes us weak and unhealthy.</li></ul>]]></DESC> 
+<RULES><![CDATA[- There shall be two events, namely the English Debate and the Hindi Debate .><br/>- It is a team event. <br/>- Participants are required to be in a team of 2 members. <br/>- Auditions for the main event shall be conducted through Group Discussion. <br/>- The Debate shall consist of 2 rounds. <br/>- After the first round, 2 teams shall advance to the next round. The winner of the second round shall win the debate. <br/> - In each round, 2 teams shall face each other, one speaking Pros and other Cons of the given motion. <br/>- Each round consists of 3 parts. <br/>- Firstly, the participants from both teams speak alternately for 3 minutes each. <br/>- Then, there shall be a rebuttle where the teams are allowed to question the other team. <br/>- Finally, 1 member from each team concludes the debate in 1 minute. <br/>- Usage of vulgar/abusive language is strictly prohibited. <br/>- The decision of the judges shall be final. <br/>- The topic for the debate shall be announced 2 hours before the event. <br/>]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:ab.spidy@gmail.com'>Abhishek Dubey</a></b>  96809 95270<br/><b><a href='mailto:laharsolanki7b@gmail.com'>Lahar Solanki</a></b>  93519 23492]]></CONTACT> 
+<PRIZE><![CDATA[<b>English Debate:</b><br/><b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.2000/-<br/><br/>Hindi Debate:</b><br/><b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.2000/-]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Dance/Duet-Dance.jpg</PATH> 
+<EVENTID>8</EVENTID> 
+<R>Duet Dance</R> 
+<V>Two 2 Twist</V>
+<DESC><![CDATA[Something everyone has heard of gains momentum as it gets ready to launch itself again. This event is a fusion of grace n coordination at its best. Two merge into one as they perform, losing themselves in all that the dance offers to produce a symphony never seen before.<br/><br/><b>Schedule:</b><br/>16:00 to 18:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Maximum Entries from a college: Two><br/>- No. of participants: Two (could of same or different gender) <br/>- Maximum time duration of the performance: 7 minutes including the setup time <br/>- Registration: Online and on the spot. <br/>- No props or costumes would be provided by the institute. <br/>- Participants are requested to bring two copies of sound tracks in the standard audio format (.wma/.wmv) . One copy will be submitted to the institute at least 20 minutes before the prelims begin. <br/>- Participants name, college s name and category name must be clearly printed on the C.D. <br/>- Decision of the judges and the organizing committee would be final and binding on any issue. <br/>- Participants would have to perform a part of their prepared dance for 2(+1) minutes but this need not be in proper costumes with all props. <br/>- There will be no prelims. Instead the participant(s) will have to bring a CD with their performances which has to be submitted latest by 4 hours before the event(duet dance) starts.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:rlloomba@gmail.com'> Radhika Loomba </a></b>  96020 47792<br/><b><a href ='mailto:kritikajain1608@gmail.com'> Kritika Jain </a></b>  94607 09766<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.10000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.4000/-]]></PRIZE>
+<ROOT>Dance</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Music/Duet-Singing.jpg</PATH> 
+<EVENTID>9</EVENTID> 
+<R>Duet Singing</R> 
+<V>Sur Sangam</V> 
+<DESC><![CDATA[Mundane sounds fade as music lights up the stage. Capturing all hearts n souls, two vibrant and dulcet voices waft on the air balancing and complimenting each other to create a sense of completion.<br/><br/><b>Schedule:</b><br/>Prelims-11:00 to 13:00     20<sup>th</sup> Feb<br/>Finals - 14:30 to 16:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Maximum Entries from a college: Two ><br/> - No. of participants: Two (could of same or different gender) <br/>- Maximum time duration of the performance: 3 and a half minutes <br/>- Registration: Online. <br/>- Participants are allowed to get their own instruments. In case, some instrument is required, please inform the organizers at least one day before the actual event. The institution will try to arrange them but nothing is guaranteed. <br/>- Hindi songs (or) mixture of Hindi and English songs are allowed.<br/>- Karaoke for songs is not allowed.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:capri.shruti3191@gmail.com'> Shruti Gupta</a></b>  96020 47793 <br/><b><a href ='mailto:swatibest2004@gmail.com'>Swati Hasija</a></b>  94614 27495<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.11500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7000/-]]></PRIZE>
+<ROOT>Music</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/essay.jpg</PATH> 
+<EVENTID>10</EVENTID> 
+<R>Essay Writing</R> 
+<V>Brave a New World</V> 
+<DESC><![CDATA[Every person has creative thoughts embedded in him. Through this event we like to extract the creative and versatile thoughts. You might love to write, for a paper or a magazine, or just for the fun of it! In any case, do turn up. You certainly will go back home with a bit more worth, maybe even in more ways than one!><br/> Prove to us that the pen is indeed mightier than the sword.<br/><br/><b>Schedule:</b><br/>15:00 to 16:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- The decision of the organizers would be final and binding .><br/>- Essays will be accepted in English and Hindi. <br/>- The Language should be decent, any sort of vulgarity will lead to disqualification. <br/>- Other instructions will be given at the time of event. <br/>- In case of any other query contact the following event organizers.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:dekhetawat@gmail.com'>Deepak Khetawat</a></b>  94147 38818 <br/><b><a href='mailto:utkarsh.kulsh@gmail.com'>Utkarsh Kulshrestha</a></b>  94145 83337 ]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6000/-]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/Floor-Crossing.jpg</PATH> 
+<EVENTID>11</EVENTID> 
+<R>Floor Crossing</R> 
+<V>Floor Crossing</V> 
+<DESC><![CDATA[Debating with someone is easy. Now let us try something new. We all know that just as the two sides of a coin, everything in this world has positive as well as negative aspects. So we thought that lets not draw a line and restrain your thinking on one side only and allow you to cross and express both aspects.<br/><br/><b>Schedule:</b><br/>13:30 to 15:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Each participant will have to speak pros and cons of a given topic .><br/>- Three minutes shall be given to each participant.<br/>- First 1.5 minutes to speak for the topic and next 1.5 minutes against the topic. <br/>- There is no language constraint (Hindi or English). <br/>- Participants should not contradict their own point. <br/>- Points will be deducted if time exceeds the limit. <br/>- Registration will be held on the same day of the event. <br/>- In case of any discrepancy, decision of judges would be final and unquestionable. <br/>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:khushboo107@gmail.com'>Khushboo Porwal</a></b>  94148 19230<br/><b><a href='mailto:gkochar007@gmail.com'>Gazal Kochar</a></b>  93521 93007]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6000/-<br/>]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/Brain-Teaser.jpg</PATH> 
+<EVENTID>12</EVENTID> 
+<R>Brain Teasers</R> 
+<V>Get Bald</V> 
+<DESC><![CDATA[Hi friends! It`s Phunsuk Wangdu here. Remember me? Hmmmm....><br/>Probably you remember Rancho.<br/>Anyways I still have the pen Virus had given to me and its time I hand it over to the ONE who deserves it. But it ain't that simple. Riddles, Teasers, Mind Bogglers are waiting to pounce on you. <br/>So why not get a feel of how it tastes??(what say) <br/><br/><b>Q:</b> WITH SHIFTING ONLY ONE DIGIT OR SIGN(*DO NOT SWAP) MAKE THE BELOW AN EQUATION(LHS=RHS) <br/>     62-63=1<br/>YOU CAN PUT THE DIGIT ANYWHERE IN THE SPACE YOU LIKE. <br/>    NOTE:ONLY A DIGIT OR A SIGN CAN BE MOVED, NOT A NUMBER. NOTHING EXTRA CAN BE ADDED.<br/><i>(For Eg:  You Can't Swap The = and - Sign With Each Other)</i><br/>  GET READY TO SCRATCH YOUR HEAD TILL YOU  GET BALD <br/>             ANSWER TO THE ABOVE: 2^<super>6</super>-63=1<br/><br/><br/><b>Schedule:</b><br/>16:30 to 17:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Two participants in a team is necessary(not more than two) .><br/>- First there would be a preliminary round at the time of fest and on the same day there would be finals.<br/>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:gargsameer297@gmail.com'>Sameer Garg</a></b>  94614 26463<br/><b><a href ='mailto:karannjhanwerr@yahoo.in'>Karan Jhanwer</a></b>  93513 68415]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.11500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/quiz.jpg</PATH> 
+<EVENTID>13</EVENTID> 
+<R>GK Quiz</R> 
+<V>Gyaan Mania</V> 
+<DESC><![CDATA[However vast you may learn there is always an ocean for you to explore. The horizon of the General quiz would encompass all eras ranging from sports to politics, history to science, business to religion and all what your minds can imagine of. So it`s time to put your knowledge to test and find out how aware of the world you are amongst the group of your peers !!!<br/><br/><b>Schedule:</b><br/>Prelims-12:00 to 13:00     21<sup>st</sup> Feb<br/>Finals - 13:30 to 15:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Team size is restricted to a maximum of 3 and a minimum of 2 participants.><br/>- A team may comprise of participants from different colleges. <br/>- There will be a qualifying round wherein the 4 best teams will be short listed for the Main Round. <br/>- The qualifying round will be a written round. The paper will consist of around 60 questions and the time duration will be 30 - 40 minutes. <br/>- There will be specific rounds and carry questions for the audience in the Main round. <br/>- The decision of the organizing committee will be last and final. <br/>- Cheating and Unfair Means will imply instant disqualification.<br/>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:rahulseth.lnmiit@gmail.com'>Rahul Seth</a></b>  94605 73301<br/><b><a href ='mailto:jr.sanket@gmail.com'>Sanket Jain</a></b>  94614 22727<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.12500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.6500/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/wierd.jpg</PATH> 
+<EVENTID>14</EVENTID> 
+<R>Weird Idea</R> 
+<V>Gotcha!!!</V> 
+<DESC><![CDATA[You have a unique ability to think differently, think innovatively.><br/>But now the challenge is to think weirdly. Ideas so weird, that they will amuse and entertain. So don your thinking caps and go show the world that you are the ultimate weirdo.<br/><br/><b>Schedule:</b><br/>13:30 to 15:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Participation has to be in teams of at most 2 members .><br/>- The teams have to submit their ideas online or during vivacity in pdf (or .doc) format.<BR/>- Shortlisted teams will have to present ppt presentations at LNMIIT during the event.<BR/>- Any use of unfair means will lead to disqualification.<BR/>- Judge`s decision will be final and binding.]]></RULES> 
+ 
+<CONTACT><![CDATA[<b><a href='mailto:management.vivacity@gmail.com'>Kavish Gakkhar</a></b>    94149 75192<br/><b><a href ='mailto:management.vivacity@gmail.com '>Khushboo Pareekh</a></b>  97990 52383<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7000/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Dance/razzmataz.jpg</PATH> 
+<EVENTID>15</EVENTID> 
+<R>Group Dance</R> 
+<V>Razzmatazz</V> 
+<DESC><![CDATA[Dancing is the loftiest, the most moving, the most beautiful of the arts, because it s not a mere translation or abstraction from life, it`s life itself. Have what it takes to compose poetry with your legs and sweep everyone off their feet? If yes, then group dance is just the floor for your masterpiece to be orchestrated. So put on your dancing shoes and remember to leave all those inhibitions behind because all that we need here is for you to bring something new to the floor .><br/>Vivacity 2010 presents you with the most awaited event group dance.<br/><br/><b>Schedule:</b><br/>Prelims-11:30 to 14:00     21<sup>st</sup> Feb<br/>Finals - 18:30 to 20:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- ><b>No of Participants:</b> 6-12. <br/>- <b>Time limit</b> Max: 8 min. Min: 4 min.<br/>- <b>Maximum Entries from a college:</b> 2. <br/>- All forms of dance allowed. (Except Street Dance)<br/>- Weightage will be for costumes, music, choreography and coordination. <br/>- Team must bring 2 CDs of their dance tracks in the Standard Audio CD format.<br/>- Team name and college name must be clearly written on the CD.<br/>- Any kind of fluid or flame is not allowed on stage.<br/>- The decision of the judges shall be final and binding.<br/>]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:ajmerakaranrajesh@gmail.com'>Karan Ajmera</a></b>  99297 85213<br/><b><a href ='mailto:nik.agarwal2007@gmail.com'>Nikhil Agarwal</a></b>  99297 85209<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.24000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.15000/-]]></PRIZE>
+<ROOT>Dance</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Art N Craft/Paint-a-Poem.jpg</PATH> 
+<EVENTID>16</EVENTID> 
+<R>Paint a Poem</R> 
+<V>Rangkosh</V> 
+<DESC><![CDATA[A poet`s verse can inspire one`s own pictures. Poets are similar to artists. Like the artist with his or her colours, the poet selects a word from his or her palette and combines it with another, and then another, to help us see images. So portray the depth of the poem on canvas to learn its true meaning .Let the resonance of words be impersonated into silence of colours. It is a challenge to paint your imagination from a few words. So provide wings to your mind`s eye and get ready to give it a go...<br/><br/><b>Schedule:</b><br/>15:00 to 17:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[-On the spot registration.<br/>- Each team will have maximum of three members. <br/>- Each team will be provided with a poem. <br/>- According to your understanding and imagination you have to sketch and paint whatever you interpret from the poem. <br/>- Maximum time limit one and a half hour. <br/>-All the required materials like paper , pencil , colours etc will be provided .You need not use anything else than the items provided.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:rashmi.singhal04@gmail.com'>Rashmi Singhal</a></b>90013 71676<br/><b><a href ='mailto:abhap1@gmail.com'>Abha Pandey</a></b>93520 84081<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.2000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Art N Craft</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/la senate.jpg</PATH> 
+<EVENTID>17</EVENTID> 
+<R>Economic Debate</R> 
+<V>La Senate</V> 
+<DESC><![CDATA[Aha!! Time to spill some economics and apply your amazing debating powers. Get engaged in verbal combat...It`s just the time when your argumentative behaviour and Never Say Die attitude will be seen in a positive light....In fact the more it is, the better the applause (Clap! Clap! Clap!).. .><br/>Go ahead... Elucidate!!!<br/><br/><b>Schedule:</b><br/>Prelims-11:30 to 13:00     20<sup>th</sup> Feb<br/>Finals - 18:00 to 19:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Each team should comprise of 2 members.><br/>- It`s team choice to speak against for the motion. <br/>- The event will be held in two rounds-preliminary and final. <br/>- Both the rounds will be held during vivacity. <br/>- After preliminaries two teams will be selected one 'of the motion and 'one against the motion'. <br/>- 2 teams will be shortlisted for final round after preliminaries and there will be a tussle fight between them. <br/>- Tussle fight rules:    <br/>*A member of a team will go first to present his views and then member of opposition and so on...    <br/>*A team has to present itself 4 times on the stage.    <br/>*decision of who will go first will be through toss. <br/>- The decision of the judges will be final and binding. <br/>- The topic of debate will be updated soon...]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:management.vivacity@gmail.com'>Bhavya Agarwal</a></b>  94600 16983<br/><b><a href='mailto:management.vivacity@gmail.com'>Chandramauli Kabra</a></b>  93140 26338]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.6500/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/Matki-Phod.jpg</PATH> 
+<EVENTID>18</EVENTID> 
+<R>Matki Phod</R> 
+<V>Govinda Aala Re</V> 
+<DESC><![CDATA[Matki phod, One of the most exciting and happening events at vivacity. `Matki phod` is a zippy event requiring intense activity. A pot filled with butter and cheese hangs at a good height. The idea is to create a mound comprising of the team members in an endeavour to crack the pot and grab the contents. The quickest wins the contest.<br/><br/><b>Schedule:</b><br/>15:00 to 17:00     19<sup>th</sup> Feb<br/>]]></DESC> 
+<RULES><![CDATA[- In each team there may be 8-10 members.<br/>- Each team will be given only fixed time (7-8 min.) to complete the task. <BR/>- If more than 1 team complete the task in given time then the team who completed the task in minimum time will be the winner. <br/>- In case of any discrepancy, final decision will be taken by organizers. <br/>- Teams are not supposed to bring any kind of equipment for this event, the basic equipment will be provided by the organizer. <br/>- Height range of the MATKI (pot) from ground surface will be 15-20 ft. <br/>- If any member of the  team get injured, Organizer will not be responsible for that but medical first aid will be provided. <br/>- Violation of  any above  rule will disqualify  the team.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:gjain29@gmail.com'>Deepak Jain</a></b>  94608 52912<br/><b><a href='mailto:ankurjs99@gmail.com'>Ankur  Sharma</a></b>  93146 64541]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/>]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/Sansani.jpg</PATH> 
+<EVENTID>19</EVENTID> 
+<R>Mock Press</R> 
+<V>Sansani</V> 
+<DESC><![CDATA[Have you ever thought of defending some of the most controversial people in the world??? We give you a chance to show that someone wrong can also be right. So lets see how well can you paint devils as saints in our edition of mock press.<br/><br/><b>Schedule:</b><br/>16:00 to 18:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[Registrations will be accepted on the first day of vivacity. Late registrations will not be entertained. <br/>-There will be two rounds: prelims and finals. <br/>-Prelims will be a written round. All participants have to write an essay defending the personality provided by us. Best ten go in the next round i.e. the finale. <br/>-Finale will be held on the 2nd day of vivacity. Each finalist will be given their personality on the first day i.e. the 19th. <br/>-Each person will be given 2mins to defend the personality given.  <br/>-Judgment will be made on the basis of the content and communication skills. <br/>-Marks will be deducted for the use of offensive language.]]></RULES> 
+ 
+<CONTACT><![CDATA[<b><a href='mailto:shinjinee.upadhyay@gmail.com '> Shinjinee Upadhyay</a></b> 96022 47357<br/><b><a href='mailto:gkochar007@gmail.com'>Gazal Kochar</a></b> 93521 93007]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.5000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1500/-<br/>]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Drama/Spoof.jpg</PATH> 
+<EVENTID>20</EVENTID> 
+<R>Movie Spoof</R> 
+<V>Spoof Up</V> 
+<DESC><![CDATA[Ever wondered for a better platform to showcase your talent instead of youtubing it???? If yes then you have loads of fun at your helms bringing you your opportunity at vivacity 2010. The point of a spoof is to make a hilarious imitation of a popular show or movie.<br/><br/><b>Schedule:</b><br/>13:30 to 15:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- ><b>No of Participants:</b> 10 (Max).<br/>- <b>Time limit:</b>  Max: 12 min.  Min: 6 min.<br/>- <b>Maximum Entries from a college:</b> 2.<br/>- Your theme should be based on either a Hollywood /Bollywood film or a popular daily soap.<br/>- You will be judged on the basis of use of humour, creativity, innovation and similarity to the original theme which you have chosen.]]></RULES>  
+<CONTACT><![CDATA[<b><a href='mailto:ankita.lnmiit@lnmiit.ac.in'>Ankita Kothari</a></b>  94136 52038<br/><b><a href='mailto:shreya.lnmiit@gmail.com'>Shreya Sharma</a></b>  94142 00047]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>Drama</ROOT> 
+ 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Drama/Nukkad.jpg</PATH> 
+<EVENTID>21</EVENTID> 
+<R>Nukkad Natak</R> 
+<V>Nukkad-Ek Awaaz</V> 
+<DESC><![CDATA[Every one of us likes to be noticed when we are on the streets, here`s an event that will satisfy this need. A `street` is the grass root of any city, town or village. When dramatics is blended with a street, it`s effect can be profound on the society. The Nukkad Natak is all about attracting people s attention and making their heads turn and feet freeze to see you perform at the same time having a mass impact and becoming a harbinger for social change. If you have a message to send out to the world, its time you shout it out, because we are giving you a platform to do so. A crowd of admiring onlookers awaits you, as you try to unleash your creativity with the aid of colourful props and costumes. So get your scripts written, your act ready and show the world what you`ve got, because this time when you`ll start saying, they`ll have to listen!!!<br/><br/><b>Schedule:</b><br/>14:00 to 16:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<br/>- <b>No of Participants:</b> 15 (Max).<br/>- <b>Time Duration:</b>  Max: 12 min. <br/>- Maximum Entries from a college: 2<br/>- Teams are to perform in an open air venue with audience on all sides.<br/>- Only live music is allowed like use of dholak, congo etc. <br/>- Teams must adhere to the time limit to avoid negative marking. <br/>- Use of mikes, lights, make up are not allowed. <br/>- No use of special costumes is allowed, but you can follow a dress code. <br/>- In case of any discrepancy the judge`s decision will be final and unquestionable. <br/>- All required props are expected to be brought by the teams, nothing will be provided at the venue.]]></RULES> 
+ 
+<CONTACT><![CDATA[<b><a href='mailto:aneetkaur.08@lnmiit.ac.in'>Aneet Chhabra</a></b>  93519 49411<br/><b><a href='mailto:shreya.08@lnmiit.ac.in'>Shreya Agarwal</a></b>  94605 74370]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.21000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.13500/-]]></PRIZE>
+<ROOT>Drama</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Drama/One-Act-Play.jpg</PATH> 
+<EVENTID>22</EVENTID> 
+<R>One Act Play</R> 
+<V>All the World`s a Stage</V> 
+<DESC><![CDATA[Sometimes a word is enough to soothe a troubled soul.. .><br/>Sometimes a sentence is enough to stop a war...<BR/>Sometimes an act is enough to change the thought of an entire nation...<BR/>Neither your creativity or skill, nor your determination, just time is a constraint. So go on and display your proposition unbounded in just one act.<br/><br/><b>Schedule:</b><br/>Prelims-10:30 to 13:00     19<sup>th</sup> Feb<br/>Finals - 17:00 to 19:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- ><b>No of Participants:</b> 15(excluding sounds and lights support)<br/>- <b>Time limit</b> Max: 20min. Min:  12min.<br/>- Maximum Entries from a college: 2.<br/>- Language of the play can be English/Hindi.<br/>- The Teams have to send the Soft Copy of the Script through mail till 15th Feb 2010 by 17:00 hrs. <br/>- Only Selected teams will be allowed to perform in the Final Round.<br/>- All clothes accessories are to be arranged by the participating team.<br/>- The organizing committee is responsible only for the infrastructural facilities.<br/>- The background music for the skit should be in Standard Audio CD Format.<br/>- You should be carrying 2 copies of the Background Music CD.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:ab.spidy@gmail.com'>Abhishek Dubey</a></b>  96809 95270<br/><b><a href='mailto:dink490@gmail.com'>Dinesh Korani</a></b>  94149 87193]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.20500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.12500/-]]></PRIZE>
+<ROOT>Drama</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Art N Craft/Rangoli-Making.jpg</PATH>  
+<EVENTID>23</EVENTID> 
+<R>Rangoli Making</R> 
+<V>Rang Bhoomi</V> 
+<DESC><![CDATA['Rangoli' signifies creative expression of art by means of colours and is also considered a symbol of good-luck. Ever made Rangoli at home for festivals and ended up wondering whether all that effort would be beneficial to you sometime? Use all the talent and experience you have, and show us what you re made of. All in all; Fine arts and color. Indian ishtyle!<br/><br/><b>Schedule:</b><br/>11:00 to 13:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Each team can have at most 4 members.><br/>- Time duration is one and a half hours. <br/>- Rangoli has to be made on a block of size 95cmx95 cm. <br/>- It will be a theme-based event. The rangoli should depict a particular theme. <br/>- Some basic colours of rangoli(like red, blue, green, yellow, white, pink) will be provided. <br/>- Participants are not required to bring with them colours or any other decorative stuff. <br/>- Use of stencils and tracing is strictly not allowed. <br/>- A maximum of 30 teams would be allowed to participate. Registrations will be done at the spot on the first come first serve basis. <br/>- The decision of the judges and organizers will be final and binding in all.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:disha.08@lnmiit.ac.in'> Disha Ajmera</a></b>  94132 40248<br/><b><a href='mailto:nikigoyal14@gmail.com'>Nikita Goyal</a></b>  98291 20448]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.2500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1500/-]]></PRIZE>
+<ROOT>Art N Craft</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/salesman.jpg</PATH> 
+<EVENTID>24</EVENTID> 
+<R>Salesman</R>  
+<V>Wonder Vendor</V> 
+<DESC><![CDATA[So you think you can give Rocket Singh a run for his money? Have a rocket in your pocket? Then this is just where you could ignite it. Just get out there, promote &amp; sell products assigned. Showcase your wits and grits and who knows you might just be laughing away as the Salesman of the Fest or lets say Wonder Vendor....<br/><br/><b>Schedule:</b><br/>15:30 to 17:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Team size-maximum of 2.><br/>- Participants' marketing skills will be tested on their selling and convincing power. <br/>- The participants will be closely monitored and use of any unfair means will lead to disqualification.  <br/>- The decision of judges will be final and binding. <br/>- Problem statement will be soon updated.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:management.vivacity@gmail.com'>Bhavya Agarwal</a></b>  94600 16983<br/><b><a href='mailto:management.vivacity@gmail.com'>Yasha</a></b>  97995 52535]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/shutter.jpg</PATH> 
+<EVENTID>25</EVENTID> 
+<R>Photography</R> 
+<V>Shutter Bug</V> 
+<DESC><![CDATA[<I>'When you photograph a face, you photograph the soul behind it.'  <br/>- Jean-Luc Godard</I><BR/><BR/>A picture speaks more than a thousand words. If you have talent to speak through pictures rather than words, we provide you a platform to showcase your talent.   Peek-a-boo , it`s a sneak peak time. It`s the time to stealthily get a closer look at celebs and capture them indulged in some crazy stuff with your cam. This competition offers you the chance to show just how well you shoot at sight.]]></DESC> 
+<RULES><![CDATA[<b>Participation : Individual</b><br/>There will be two simultaneous tasks. Participant may involve in either of the two tasks or for both.<br/><br/><b>Task 1</b><br/>The participants have to photograph the maximum number of designated 'celebrities' (assigned by us). The location of the celebrities will be revealed to the participant from time to time. Prizes for the photographers with the maximum pictures of celebrities. Only mobile cameras are allowed for this task. <br/><br/><b>Task 2</b><br/>The photograph may be taken with any device (mobile, digital camera etc).The photographs will not be judged by the standards of the devices with which they are taken. Hence contestants may as well use just a mobile integrated camera instead of high resolution digital camera.<br/><br/><ul><li>Digital modification of the photograph shall be strictly not allowed.</li><li>Any participant will not be allowed to see other competing entries.</li><li>The decision of the judge shall be final.</li><li>At the venue participants will only be provided with computer with windows OS and USB port. Participants must get their connecting wires. None shall be provided by the organizers.</li><li>Rest of the information about the competition will be given at the venue.</li></ul>]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:aroraharsh90@gmail.com'>Harsh Arora</a></b>  94614 29407<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Music/Solo-Singing.jpg</PATH> 
+<EVENTID>26</EVENTID> 
+<R>Solo Singing</R> 
+<V>Gata Rahe Mera Mann</V> 
+<DESC><![CDATA[Is singing your passion? Do your friends tell you that you have a melodious voice? If so, we are giving you a chance to let that talent out and enthral the audience with your melodious voice and versatile singing. Let the world get mesmerized on your dhun, dance to your taal , as we provide you the stage of your dreams. So get your notes right and stretch your vocal chords as an applauding audience awaits you.<br/><br/><b>Schedule:</b><br/>Prelims-11:00 to 13:00     20<sup>th</sup> Feb<br/>Finals - 14:30 to 16:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- ><b>Premilinaries</b><br />1) On the spot registration<br />2) Prepare a song of your choice<br />3) maximum time limit 2 minutes<br />4) 8 participants  will enter in  finals<br /><br /><b>Finals</b><br />No wild card entry for students of LNMIIT<br/><br/><b>First Round</b><br />1.Prepare a song of your choice<br />2.Each participant will be given 3-4 minutes<br />3.Participants may use their own musical instruments or instrumental or karaoke, but they won't be provided the same from us.<br /><br /><b>Second Round</b><br />1.It will be a surprise round (like singing with instruments, singing a song demanded by  the judges,etc)<br />2.Instruments are allowed-they will have to be arranged by the participants itself.<br /><i>Selection will be done on the basis of sur, taal, raag, voice quality and overall impact of the song</i>]]></RULES> 
+ <CONTACT><![CDATA[<b><a href='mailto:rashmi.singhal04@gmail.com'>Rashmi Singhal</a></b>90013 71676<br/><b><a href ='mailto:abhap1@gmail.com'>Abha Pandey</a></b>93520 84081<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>Music</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Dance/Solo-Dance-Indian.jpg</PATH> 
+<EVENTID>27</EVENTID> 
+<R>Solo Dance (Indian)</R> 
+<V>Nrityanjali</V> 
+<DESC><![CDATA[Poise, beauty and grace intertwine as a whole to produce a spell binding juxtaposition. Classical Dance invokes all its purity and a form of intricacy. Float as a flower petal in the rain and get ready to delicately and nimbly dance away in the shower of your own creativity. Create and embellish your own moves as the eyes follow your silhouette<br/><br/><b>Schedule:</b><br/>Prelims-10:00 to 12:30     21<sup>st</sup> Feb<br/>Finals - 13:00 to 15:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Maximum Entries from a college: Two><br/>- No. of participants: One <br/>-  Maximum time duration of the performance: 8 minutes including the setup time <br/>- Registration: Online and On The Spot: <br/>- No props or costumes would be provided by the institute.  <br/>- Participants are requested to bring two copies of sound tracks in the standard audio format (.wma/.wmv) . One copy will be submitted to the institute at least 20minutes before the prelims begin.. <br/>? Competitor`s name, college`s name and category name must be clearly printed on the C.D. and the case. <br/>- Decision of the judges and the organizing committee would be final and binding on any issue. <br/>Prelims : Will be held if necessary. <br/>Participants would have to perform a part of their prepared dance for 4minutes. <br/>The points of Preliminary will carry forward to the final round and the grand total of the two would decide the winner.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:capri.shruti3191@gmail.com'> Shruti Gupta</a></b>  96020 47793 <br/><b><a href ='mailto:kritikajain1608@gmail.com'>Kritika Jain</a></b>  94607 09766]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>Dance</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Dance/Solo-Dance-Western-(2).jpg</PATH> 
+<EVENTID>28</EVENTID> 
+<R>Solo Dance (Western)</R> 
+<V>X-Static</V> 
+<DESC><![CDATA[Elegant or spicy, hypnotic or crazy, Calm or wild. Whatever you choose, get ready to display all of yourself in one energy-packed performance. Let the music sway you into your world where you float n flow to your own slice of rhythm, magically enrapturing all. The stage is all for you.<br/><br/><b>Schedule:</b><br/>Prelims-10:00 to 12:30     21<sup>st</sup> Feb<br/>Finals - 13:00 to 15:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- ><b>No. of participants:</b>  1<br/>- <b>Maximum Entries from a college:</b> 2.<br/>-  <b>Time Limit:</b> Max: 7min Min: 4min  <br/>-  Registration: Online and On The Spot.<br/>-  No props or costumes would be provided by the institute. <br/>-  Participants are requested to bring two copies of sound tracks in the standard audio format (.wma/.wmv). <br/>- One copy will be submitted to the organizer at least 30minutes before the prelims begin..<br/>-  Competitor`s name, college`s name and category name must be clearly printed on the C.D. and the case.<br/>- Decision of the judges and the organizing committee would be final and binding on any issue.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:swatibest2004@gmail.com'>Swati Hasija</a></b>  94614 27495<br/><b><a href='mailto:rlloomba@gmail.com'> Radhika Loomba </a></b>  96020 47792]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>Dance</ROOT> 
+ 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/spelling-bee.jpg</PATH> 
+<EVENTID>29</EVENTID> 
+<R>Spelling Bee</R> 
+<V>Spelling Bee</V> 
+<DESC><![CDATA[Take a flash back to the time when your kindergarten teachers used to take DICTATIONS. To re-live those moments we present before you a new and enhanced university version of the same. Let us see how well you know your words...<br/><br/><b>Schedule:</b><br/>15:30 to 17:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- There will be two rounds.><br/>- Round 1: Prelims - Written dictations. <BR/>- 5 people will qualify for the second round. <br/>- Round 2: Finals (RAPID FIRE) - Each participant will have THREE MINUTES, the one who spells maximum number of words correctly in this time will be the winner]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:gkochar007@gmail.com'>Gazal Kochar</a></b>  93521 93007<br/><b><a href='mailto:nikigoyal4@gmail.com'>Nikita Goyal</a></b>  98291 20448]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/spin a yarn.jpg</PATH> 
+ 
+<EVENTID>30</EVENTID> 
+<R>Tell a story</R> 
+<V>Spin A Yarn</V> 
+<DESC><![CDATA[What did you do the last time you reached home late??? Must have fabricated a story to your mom and if you were good, your mom would have spared you!! Do the same here. We give you a proverb; fabricate an entertaining real or fictitious story based on this proverb. You speak one line and your partner speaks the next. You both continue till you can... or till you complete the story. So, if you have the ability to cook up a fanciful one..... don`t let the opportunity to slip!!!<br/><br/><b>Schedule:</b><br/>14:00 to 17:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Each team will comprise of two participants.><br/>- Topics(Proverbs etc.) will be given on the spot. <br/>- Participants may use either Hindi or English language. <br/>- Time limit: Minimum- 2 and a half min. , Maximum- 5 min. Negative points for exceeding the maximum time limit. <br/>- Participants will be given a minimum time of 2 min for preparation. <br/>- The story should make sense and be based on the topic given. It may be real, fictitious, humorous, poetic etc. <br/>- You will be judged on parameters like coordination, fluency, quick thinking , fast and clear speaking , etc. <br/>- Very long and compound sentences just by one participant at a time or long pauses in between will lead to negative marking. So, the two members are required to speak short lines turn-by-turn and keep the ball rolling. <br/>- Vulgarity is strictly discouraged and proper limits need to be assured by the participants. Else it may lead to disqualification. <br/>- Decision made by the judges would be final.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:mariyaquibtiya@gmail.com'> Mariya Quibtiya </a></b>  80035 06452<br/><b><a href='mailto:chetnamay14@gmail.com'> Chetna Das</a></b>  99298 29591<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.1500/-<br/>]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Dance/Street-Dance.jpg</PATH> 
+<EVENTID>31</EVENTID> 
+<R>Street Dance</R> 
+<V>Stomp Thy Art</V> 
+<DESC><![CDATA[It started in the 80s on the streets of New York and still it hasn`t lost its flame. This year the heat reaches Vivacity. Groups will prove their metal on the dance stage. Only the one with attitude and courage will stand out.<br/><br/><b>Schedule:</b><br/>16:00 to 18:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[[- Participant should show the freestyle of Street Dance. Power movements, acrobatics, etc. are admissible, but they should not dominate. Remember the main thing: DANCE under MUSIC Hip-Hop!><BR/>- Entry is not restricted to college students only.<BR/>- Time limit is of 9 minutes.<BR/>- Teams must bring 2 CDs containing their sound track.<BR/>- 1 CD to be submitted at the time of registration.<BR/>- Teams should bring their own portable music systems for practice. <BR/>- The dance floor area must be in the same condition after the performances as before. <BR/>- Individuality and originality of the dance is encouraged as well as interaction and contact with the spectators and the other dancers.<BR/>- Dancers are not restricted from performing any move but they must be aware that it is their own responsibility to ensure that they do not perform dangerous moves that could injure themselves or others. Organisers have the right to bring in safety restrictions.<BR/>- Use of water and fire in any form on stage will result in disqualification.<BR/>- SAME DANCE CANNOT BE PERFORMED IN THE GROUP DANCE COMPETITION. HOWEVER TTHE SAME TEAM MEMBERS CAN PERFORM A DIFFERENT DANCE. ]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:anantjindal1@gmail.com'>Anant Jindal</a></b>  99297 10368<br/><b><a href ='mailto:ami.sharma.18@gmail.com'>Amit Sharma</a></b>  93519 27510<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.28000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.18500/-]]></PRIZE>
+<ROOT>Dance</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/Treasure-Hunt.jpg</PATH> 
+<EVENTID>32</EVENTID> 
+<R>Treasure Hunt</R> 
+<V>Treasure Hunt</V>  
+<DESC><![CDATA[We gave you a treasure map<br/>To a land of hidden vales<br/>And waterfalls, and buttercups<br/>That lie along its trails.<br/><br/>Look close, you'll see some older marks<br/>The lines are faint and dim<br/>As if the thing was washed and wrung<br/>And left twisting in the wind.<br/><br/>Tie-up your shoe laces, roll-up your sleves and get set on a trail of wild guesses, of pure fun. Vivacity presents the ultimate treasure hunt - the fun event, where you use your brain to beat your competitors to the treasure on an unstoppable chase of clues and one leading to another trail. So pump up your nerves coz the clock is ticking!!!<br/><br/><b>Schedule:</b><br/>Prelims-13:00 to 14:00     20<sup>th</sup> Feb<br/>Finals  - 14:00 to 17:00 20<sup>th</sup> Feb<br/>]]></DESC> 
+<RULES><![CDATA[- In each team there will be only 2 members.><br/>- There may be one prelim to reduce the number of entries for the task. Prelims will be based on your skills to solve the puzzles. Only 6 teams will be selected for the event after prelim. <br/>- There will be a time limit. <br/>- No two teams can communicate by any means.  <br/>- Team must not split up at any stage of the treasure hunt. <br/>- Team must not remove or deface any clues of other teams. <br/>- If no team is able to find all the clues within the time limit then the team having maximum clues, will be winner. In case of more than one winner, there will be a short quiz. <br/>- In case of any discrepancy, final decision will be taken by organizers. <br/>- Violation of any above rule will disqualify the team.<br/>- LNM IIT University team is not allowed]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:djain29@gmail.com'>Deepak Jain</a></b>  94608 52912<br/><b><a href ='mailto:ag.saurabh89@gmail.com'>Saurabh Agrawal</a></b>  94135 03760]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.10000/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Drama/Lights-Camera-Action.jpg</PATH> 
+<EVENTID>33</EVENTID> 
+<R>Solo Impromptu</R> 
+<V>Lights  Camera  Action</V> 
+<DESC><![CDATA[This event deals with on-the-spot display of your acting. Acting deals with subtle emotions. It is not putting up a mask. Each time an actor acts he does not hide; he exposes himself.<br/><br/><b>Schedule:</b><br/>11:00 to 13:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[- A group of four ONLY.><br/>- The members have to enact for five min. <br/>- We expect you to be creative and clear. <br/>- Participants are requested to REGISTER themselves to the undersigned.]]></RULES>  
+<CONTACT><![CDATA[<b><a href=''>Ankur Sharma</a></b>  <br/><b><a href='mailto:dink490@gmail.com'>Dinesh Korani</a></b>  94149 87193<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.5000/-]]></PRIZE>
+<ROOT>Drama</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Web Dev/web_improve.jpg</PATH> 
+<EVENTID>34</EVENTID> 
+<R>Website Revamp</R> 
+<V>Website Revamp</V> 
+<DESC><![CDATA[People who thing developing something from scratch is a tedious job so here we present to you an even gargantuan task. Just like Picasa gave perfection to even slightest details of his masterpiece on canvas, here  in vivacity 2010 we provide an opportunity for all to make the  best out of the mess  on the digital canvas.<br/><br/><b>Schedule:</b><br/>17:00 to 19:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:saurav100790@gmail.com'>Saurav Anand</a></b> 93515 52987<br/><b><a href ='mailto:suniljaiswal7@gmail.com'>Sunil Jaiswal</a></b> 96679 76573, 97995 70563 <br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE> 
+<ROOT>Web Dev</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Programming/mathematica.jpg</PATH> 
+<EVENTID>35</EVENTID> 
+<R>Mathematica</R> 
+<V>Mathematica</V> 
+<DESC><![CDATA[Leibnitz and Newton discovered calculus, Aryabhatta pioneered geometry. Geniuses have always lived, astonishing everyone with their ground breaking discoveries. So ignite the hidden passion for mathematics in you. Can you show your prowess and solve some mathematical puzzles? Matlab will be your tool and vivacity will be the stage to show your mathematical strength.<br/><br/><b>Schedule:</b><br/>18:30 to 19:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[-Team size should be 2.<br/>-20 teams will be short listed for final round.<br/>-Written 20 minutes test will be there as preliminarily round(in case of large registration).<br/>-NET access is not allowed, but we will give reference e-books & material for help.<br/>-Duration of final round will be 2 hours.<br/>-External material & softwares are not allowed.<br/>-Final round will consist of 4 problems, & you have to solve them using MATLAB.<br/>-The decision of organizers shall be final in case of any conflict.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:goyal1dushyant@gmail.com'>Dushyant Goyal</a></b><br/><b><a href ='mailto:mittal.gaurav943@gmail.com'>Gaurav Mittal</a></b><br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5000/-]]></PRIZE>
+<ROOT>Programming</ROOT> 
+ 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Programming/Cbug.jpg</PATH> 
+<EVENTID>36</EVENTID> 
+<R>Debug</R> 
+<V>DEBUG THE C BUG</V> 
+<DESC><![CDATA[He who seeketh findeth  errors can creep in the simplest of codes. So dive into the coding labyrinth and unfold the bugs in programming.<br/><br/><b>Schedule:</b><br/>Prelims-12:00 to 13:00     21<sup>st</sup> Feb<br/>Finals - 14:30 to 16:30     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[<ul><li>The participating team size should be 2 members.</li><li>Only 10 teams will be shortlisted as per the preliminary round to be held on campus.</li><li>The contest will consist of 4 problem statements, each consisting a lengthy C code with coding BUGS.</li><li>The duration of the final round would be 2 hours.</li><li>Each solution shall be considered for evaluation only if it gives the desired output according to the given problem statement.</li><li>The decision of the organizers shall be final in all matters.</li></ul>]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:anantjindal1@gmail.com'>Anant Jindal</a></b>  99297 10368<br/><b><a href ='mailto:luckyagarwal3247@gmail.com'>Lucky Agarwal</a></b>  93140 04414<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.8000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.2500/-]]></PRIZE>
+<ROOT>Programming</ROOT> 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Programming/log-watch.jpg</PATH> 
+<EVENTID>37</EVENTID> 
+<R>Unix Log Watch</R> 
+<V>Log Watch</V> 
+<DESC><![CDATA[The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards. The internet is filled with weird baddies who create havoc and try to wreak the network by sending fake mails and malwares. However smart the villains, they will always leave tracks. So catch the clues and monitor what everybody is doing on the network. Can you stop the devious???<br/><br/><b>Schedule:</b><br/>10:30 to 12:30     20<sup>th</sup> Feb<br/>]]></DESC> 
+<RULES><![CDATA[<ul><li>A Team of max. two participants will be considered.</li><li>one system with fedora 10 operating system will be provided to each team.</li><li>Reference material will be provided on the spot.</li><li>Any external storage media or any other refrence material will not be allowed at the competition venue.</li><li>No internet access is allowed during competition through any medium.</li><li>Material for rough work will be provided.</li><li>Participants cannot interact with anyone except with the organizers present in the venue.</li><li>The decision of the organizers will be considered final and binding.</li><li>Execution and submission Time will be considered for judging the teams.</li><li>The organizers reserve the right to append or modify any of the above rules at their own discretion.</li></ul>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:swaroopcool21@gmail.com'>Manohar Kuse</a></b>97998 09089<br/><b><a href='mailto:paras.sethia1990@gmail.com'>Paras Sethia</a></b>94601 82459<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+<ROOT>Programming</ROOT> 
+</EVT> 
+ 
+ 
+<EVT>  
+<PATH>Assets/Events/Technical/Web Dev/web_revamp.jpg</PATH> 
+<EVENTID>39</EVENTID> 
+<R>Web Development</R> 
+<V>Web Development</V> 
+<DESC><![CDATA[<b>Schedule:<br/>16:30 to 18:30 on 20th Feb</b><br/><br/>Are you a professional web developer??? Or an aspiring upstart??? Or just wanna give shape to all those great ideas bottled up in your head??? Well… Here is a chance to deliver!!! Vivacity 2010 presents to you a great platform to develop a website for a company based on a given proposal.<br/><br/>]]></DESC> 
+<RULES><![CDATA[<a href='rules/webDev.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/webDev.pdf'>Download Rules</a><br/><br/><ul><li>Each team would contain at most 3 members</li><li>A list of problem statements will be given on the spot, with the teams given a choice to choose their favorite area</li><li>Time limit: 3 hrs.</li><li>Software provided: Photoprocessing software such as Photoshop CS3 or GIMP,  php 5.0, mysql-server.</li><li>Stock images, Reference manuals and Website matter will be provided to the teams by us.</li><li>Testing Standards : Mozilla Firefox 3.5 and Internet Explorer 8.0</li><li>Winner will be decided on the basis on functionality and design of the Website.</li><li>The decision of the judges shall be final and bounding. No controversy in this regard shall be entertained</li><li>The organizers hold the right to deny a team entry/participation if found using foul means during the competition.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:harsh.manutdblu+vivacity@gmail.com'>Kumar Harsh</a></b>  99823 26235<br/><b><a href ='mailto:chirag.jain5000@gmail.com'>Chirag Jain</a></b>  94147 46705<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+<ROOT>Web Dev</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Gaming/cs.jpg</PATH> 
+<EVENTID>40</EVENTID> 
+<R>CS</R> 
+<V>Counter Strike</V> 
+<DESC><![CDATA[Counter-Strike is a first-person shooter in which players join either the terrorist or counter-terrorist team (or become a spectator).Each team attempts to complete their mission objective and eliminate the opposing team. Each round starts with the two teams spawning simultaneously, usually at opposite ends of the map from each other. A player can choose to play as one of eight different default character models (four for each side).  Players are generally given a few seconds before the round begins (known as 'freeze time') to prepare and buy equipment, during which they cannot attack or walk/move (a player can still take damage, having the player drop from a certain height during freeze time was the only way somebody could control the players starting 'HP'). They can return to the buy area within a set amount of time to buy more equipment (some custom maps included neutral 'buy zones' that could be used by both teams). Once the round has ended, surviving players retain their equipment for use in the next round; players who were killed begin the next round with the basic default starting equipment.]]></DESC> 
+<RULES><![CDATA[<a href='rules/cs.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/cs.pdf'>Download Rules</a>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:deepakjoshid007@gmail.com'>Deepak Joshi</a></b>94606 51633<br/><b><a href ='mailto:shivamgarg502@gmail.com'>Shivam Garg</a></b> 94614 49062]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.23000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.19000/-]]></PRIZE>
+<ROOT>Gaming</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Gaming/dota.jpg</PATH> 
+<EVENTID>41</EVENTID> 
+<R>Defense Of The Ancients</R> 
+<V>DOTA</V> 
+<DESC><![CDATA[Defense of the Ancients pits two teams of players against each other: the Sentinel and the Scourge. Players on the Sentinel team are based at the southwest corner of the map, and those on the Scourge team are based at the northeast corner. Each base is defended by towers and waves of units which guard the main paths leading to their base. In the center of each base is the 'Ancient', a building that must be destroyed to win the game.  Each human player controls one Hero, a powerful unit with unique abilities. In Allstars, players on each side choose one of ninety-seven heroes, each with different abilities and tactical advantages over other heroes. The scenario is highly team-oriented; it is difficult for one player to carry the team to victory alone. Nevertheless, some heroes, given enough time, can change the outcome single-handedly, while countering the opposing team`s heroes. Defense of the Ancients allows up to ten players in a five versus five format and an additional two slots for referees or observers, often with an equal number of players on each side. Because the gameplay revolves around strengthening individual heroes, it does not require one to focus on resource management and base-building, as in most traditional real-time strategy games. Killing computer-controlled or neutral units earns the player experience points; when enough experience is accumulated, the player gains a level. Leveling up improves the hero`s toughness and the damage it can inflict, and allows players to upgrade their spells or skills. In addition to accumulating experience, players also manage a single resource: gold. The typical resource gathering of Warcraft III is replaced by a combat-oriented money system; in addition to a small periodic income, heroes earn gold by killing hostile units, base structures, and enemy heroes. This gives rise to a technique called last hitting, which is when the player attacks a hostile unit when `its hit points are low enough to kill it with one blow`. Using gold, players buy items to strengthen their hero and gain abilities. Certain items can be combined with recipes to create more powerful items. Buying items that suit one`s hero is an important tactical element of the scenario.  Allstars offers a variety of game modes, selected by the game host at the beginning of the match. The game modes dictate the difficulty of the scenario, as well as whether people can choose their hero or are assigned one randomly. Many game modes can be combined (for example, an easy difficulty level and a random hero pick), allowing more flexible options.]]></DESC> 
+<RULES><![CDATA[<a href='rules/dota.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/dota.pdf'>Download</a>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:pranoythecoolest@gmail.com'>Pranoy Agarwal</a></b>  94144 49676<br/><b><a href ='mailto:nik.agarwal2007@gmail.com'>Nikhil Agarwal</a></b>  99297 85209<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.19000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.17000/-]]></PRIZE>
+<ROOT>Gaming</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Gaming/nfs.jpg</PATH>  
+<EVENTID>42</EVENTID> 
+<R>Need For Speed : Most Wanted</R>  
+<V>NFS-MW</V> 
+<DESC><![CDATA[Need for Speed  Most Wanted  is a driving and racing game, where the player selects one car and races against a time limit or other racers to reach a destination. Police chases have once again been integrated into certain racing sessions, in which the police employ vehicles and tactics to stop the player`s car and arrest the player. As players take control of faster cars and increasingly rely on nitrous oxide speed boosts, the oxide meter now refills automatically for the first time since its introduction in Underground, and driving sequences become fast-paced and intense. Three distinct regions are offered in the city of Rockport, along with cycling weather. Racing events take place between sunrise and sunset.]]></DESC> 
+<RULES><![CDATA[- There will be a series of races comprising of time pursuit, sprints, circuits and drag races .><br/>- From each round winner and the runner up will proceed to the next round.<br/>- The winners and runner ups will be decided on basis of points table.<br/>- REGISTRATION FEE Rs. 100/PLAYER. <br/><br/><br/><b>RULES FOR PURSUIT TIME CHALLENGE POINTS 5</b><br/>- In each round there will be a time pursuit challenge in which racer only has to drive the car for the time given without getting busted.<br/><br/><b>RULES FOR SPRINTS, CIRCUITS, DRAG RACES</b><br/>POSITION    POINTS<br/>1st         10<br/>2nd         7<br/>3rd         5<br/>4th         3<br/>In case of a drag race, racer has to complete the race to earn points.<br/>No points will be awarded to the racer being TOTALLED.<br/><b>ROUND 1</b><br/><ul><li>1 Time Pursuit Challenge for 2 min. with a car of heat level 5.</li><li>1 Sprint Race.</li><li>1 Circuit Race.</li></ul><br/>ROUND 2<br/><ul><li>1 Time Pursuit Challenge for 4 min. with a car of heat level 5.</li><li>1 Sprint Race.</li><li>1 Circuit Race.</li></ul> <br/>ROUND 3<br/><ul><li>1 Time Pursuit Challenge for 6 min. with a car of heat level 5.</li><li>1 Sprint Race.</li><li>1 Circuit Race.</li></ul><br/>ROUND 4<br/><ul><li>1 Time Pursuit Challenge for 3 min. with a car of heat level 6.</li><li>1 Sprint Race.</li><li>1 Circuit Race.</li><li>1 Drag Race.</li></ul> <br/>ROUND 5<br/><ul><li>1 Time Pursuit Challenge for 5 min. with a car of heat level 6.</li><li>1 Sprint Race.</li><li>1 Circuit Race.</li><li>1 Drag Race.</li></ul><br/>ROUND 6<br/><ul><li>2 Sprint Race.</li><li>1 Circuit Race.</li><li>2 Drag Races.</li></ul> - The tracks and the cars will be announced on the day of the tournament.<br/>- In case of any dispute the decision of the Organisers will be final.<br/><br/><a href='rules/nfs.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/nfs.pdf'>Download Rules</a>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:vivacity2010@gmail.com'>Vishal Bharadwaj</a></b><br/><b><a href='mailto:paras.sethia1990@gmail.com'>Paras Sethia</a></b>  94601 82459<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3500/-]]></PRIZE>
+<ROOT>Gaming</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Electronics/Hardware-Debugging.jpg</PATH> 
+ 
+<EVENTID>43</EVENTID> 
+<R>Hardware Debugging</R> 
+<V>Hardware Debugging</V> 
+<DESC><![CDATA[In real world situation debugging is a critical. Challenges in the form of error ridden circuits will be thrown at you. Find out the flaws and bugs in those circuits using basics tenets of electronics. So unleash the debugger in you and using your knowledge and expertise correct the circuits to perform in the requisite manner.<br/><br/><b>Schedule:</b><br/>15:00 to 17:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[<b>Prelims:</b><BR/>- A team consists of 2-3 members.<BR/>- Question based upon knowledge of basic electronics would be asked and it would be of 45 min.<BR/>- Teams qualifying this round shall be sent to the final round.<BR/><b>Final:</b><BR/>- The final round would last for one and a half hour.<BR/>- The circuit containing error and the expected output shall be provided and the participants should analyze the circuit, debug it to come out with the expected result.<BR/>- Problems shall be given on the spot after the respective orientation.<BR/>- After debugging the circuit correct explanation should be compulsorily given by the teams.<BR/>- Methods, specification and requirements will not be disclosed to the participants beforehand.<BR/>- If solving time of more than one team is same or none of the team is able to solve the problem completely then the criteria decided by the judges shall be final and binding.<BR/>- The circuit shall be based upon the basic electronics, digital electronics and the data sheets of the IC?s needed will be given.<BR/>- Circuit diagram of the circuit containing error shall be given.<BR/>- The circuit containing error provided to the participants shall be made on the breadboard.<BR/>- In case of any query please feel free to contact any of the event manager either by phone or by mail.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:chandreshpancholi007@gmail.com'>Chandresh Pancholi</a></b>  94614 64861<br/><b><a href ='mailto:lokesh.charora13@gmail.com'>Lokesh Charora</a></b>  94686 79552<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3500/-]]></PRIZE>
+<ROOT>Electronics</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Electronics/MCU-Programming.jpg</PATH> 
+ 
+<EVENTID>44</EVENTID> 
+<R>MCU Programming</R> 
+<V>MCU Programming</V> 
+<DESC><![CDATA[<i>`I have the ability to arrange 1`s and 0`s in such an order that an x86 processor can actually interpret and execute those commands. It`s called Computer Programming, but it`s the closest that a man can ever get to giving birth in my opinion. And I somehow feel responsible for the future existence and acceptance of my 'child'. I'd spend hours trying to find the tiny bug that causes my child to misbehave or act strangely. But that`s my mild superpower... I make the world a better place by writing mindless back-end programs that no-one will ever see nor even know that it`s there. But I know; and that`s all that matters.`-Alucard</i><br/><br/> Have you ever wondered how codes work behind the scenes from the machine level? 'Microcodewar'- is that realm for those future technocrats who desire to quench their thirst of knowledge and strive for excellence. Creativity, innovation and taste for technical insanity being the only pre-requisites, arm yourself and put yourself onto the path of victory.<br/><br/><b>Schedule:</b><br/>12:00 to 14:00     20<sup>th</sup> Feb]]></DESC> 
+ 
+<RULES><![CDATA[<b>GENERAL RULES:</b><br/>Each team can comprise of utmost 2-3 participants. The participants are requested to carry their laptops along with them. Teams are allowed to use any software for generating HEX files for 51 family microcontrollers only (eg-Bascom, MicroC8051, Top-view simulator, Keil ?uvision). The software should be installed in your respective laptops.<br/>The event will have two rounds as discussed below:<br/><br/><b>PRELIMS:</b><br/>- The first round consists of a Quiz of duration 45 minutes. This round would be simply judging your programming skills in C/Assembly language and knowledge of compilers respectively.<br/>- The round will be solely objective in nature comprising of 30 questions in all. Exceeding Time limit or cheating in any form will lead to straight disqualification.<br/><br/><b>FINALS:</b><br/>- The selected teams will be expected to generate the HEX files corresponding to the two problem statements that would be given to them on the spot.<br/>- The required hardware (circuit) to test the code of teams will be provided by the organizers.<br/>- The tested codes should be submitted within 3 hours. Late submissions will not be entertained.<br/><br/><b>JUDGEMENT:</b><br/>Incase of any discrepancy the verdict of judges will be given paramount consideration.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:nehabaheti16@gmail.com'>Neha Baheti</a></b>  93519 18795<br/><b><a href ='mailto:lokesh.charora13@gmail.com'>Lokesh Charora</a></b>  94686 79552<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.6000/-]]></PRIZE>
+<ROOT>Electronics</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Robotics/Robo-Wars.jpg</PATH> 
+ 
+<EVENTID>45</EVENTID> 
+<R>Robowar</R> 
+<V>Robowar</V> 
+<DESC><![CDATA[When you are in a battlefield survival is everything. Death is the only great emotion. -Sam Fuller The fearsome threesomes are in a nail biting and terrifying battle. Each mistake gets more fatal as time passes by. Does your greedy, growling monster have it in its wires to stand up to the other contenders for the pinnacle of glory? Design a manually controlled wired or wireless robot to fight against the other bots. Last bot standing in the arena is the winner.<br/><br/><b>Schedule:</b><br/>15:30 to 18:00     20<sup>th</sup> Feb]]></DESC> 
+ 
+<RULES><![CDATA[<a href='rules/robowar-rules.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/robowar-rules.pdf'>Download Rules</a><br/><br/><a href='rules/robowar-specs.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/robowar-specs.pdf'>Download Arena and Robot Specifications</a>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:sudeshfor@gmail.com'>Sudesh Singhal</a></b>    98284  32420<br/><b><a href ='mailto:vaibhavmehta21@gmail.com'>Vaibhav Mehta</a></b>     97833 74832<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7500/-]]></PRIZE>
+<ROOT>Robotics</ROOT> 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Robotics/Flag Picker.jpg</PATH> 
+ 
+<EVENTID>46</EVENTID> 
+<R>Flagpicker</R> 
+<V>Flagpicker</V> 
+<DESC><![CDATA[This event is intended to provide a platform to showcase basic sensor design and robot control system. As the very name suggests you have to design a smart line follower variant with the ability to pick flags. Can you capture all the flags? Tap your mind to design an intelligent solution to this problem. Different flags will have different points but you cannot deviate from your path.<br/><br/><b>Schedule:</b><br/>12:00 to 14:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[<b>RULES:</b><BR/>- Number of members in a team: 3-4.<BR/>- No human intervention is allowed in between the race.<BR/>- Team has to design a Smart line follower woth the inbuilt capability of capturing Iron flags which come across its path.<BR/>- The winner is the one who covers the track in minimum time with maximum no. of flags.<BR/>- If the bot deviates away from its path then it will be given one more chance to start again from the last flag point.<BR/>- Follow the line as far and as fast as you can.  The robot will be placed at a pre-assigned starting point and may be started by hand as directed by the judge.  Once started your robot must navigate along a black line as quickly as possible.<BR/>- In case of any discrepancies organizers decision will be final and binding.<BR/>- The organizers reserve the right to change any or all of the rules as they desire. Change in the rules as if any will be highlighted on the website and notified to the registered teams.<BR/>- Any team found flouting any rules would be automatically disqualified.<BR/><BR/><b>ROBOT SPECIFICATION</b><BR/>- Robot must be autonomous with intelligence in its mind<BR/>- Only wheels are allowed for locomotion.<BR/>- At all times, bots behavior should be non offensive, non destructive and non harmful to humans and track.<BR/>- Bots are not allowed to fly or jump.<BR/>- Robot must not destroy the path or do any harm to the track.<BR/>- The bot must have less than these dimensions 30*25*25 cm.<BR/>- The bot can?t be constructed using readymade kits.  But you can make use of readymade gear assemblies.<BR/><BR/><b>ARENA SPECIFICATIONS</b><BR/>- The width of the path is fixed and is of 4 cm.<BR/>- The flags would be placed at certain distance which are of different scores :<BR/>  - Green Flag  - 10 points<BR/>  - Pink Flag -  15 points<BR/>  - Yellow Flag ? 20 points<BR/>- The flags are made up of iron and the machine has some mechanism in order to get these flags.<BR/>- The path is made up of black strip and the rest arena is of white color.<BR/>- The path or line consists of gentle rounded Corners and Gentle Sharp corners.<BR/>]]></RULES> 
+ 
+<CONTACT><![CDATA[<b><a href ='mailto:chandreshpancholi007@gmail.com'>Chandresh Pancholi</a></b>     94614 64861<br/><b><a href ='mailto:atbaheti.baheti24@gmail.com'>Ashutosh Baheti</a></b>    99280 11922<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7000/-]]></PRIZE>
+<ROOT>Robotics</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Robotics/Roborace.jpg</PATH> 
+ 
+<EVENTID>47</EVENTID> 
+<R>RoboRace</R> 
+<V>Sprintex</V> 
+<DESC><![CDATA[<I>'I don t really see the hurdles. I sense them like a memory. <BR/> -Edwin Moses<BR/></I><BR/> Life is like a racing across the frozen tundra on a snow mobile which flips over trapping you underneath. Winners forget they are in a race they just live to run. So never let the fear of striking out keep you from playing the game. For all you robotics zealots, we are presenting ROBORACE an event to defeat your fast machine rivals. There will be hazardous hurdles and obstacles. The world will hail the winner who overcomes them all.<br/><br/><b>Schedule:</b><br/>14:00 to 16:00     19<sup>th</sup> Feb<br/>]]></DESC> 
+<RULES><![CDATA[<b>RULES</b><BR/>- Number of members in a team: 3-4.<BR/>- No human intervention is allowed in between the race.<BR/>- Organizers will not provide any resources.<BR/>- The track will contain certain number of blue marks and if the bot goes out of the track then it has to start with the previous blue mark.<BR/>- The bot which will take the minimum time to cross all the hurdles, fulfilling the rules will be declared winner.<BR/>- One should not use the wires for lifting up or moving the bot.<BR/>- In case of any discrepancies organizers decision will be final and binding.<BR/>- The organizers reserve the right to change any or all of the rules as they desire. Change in the rules as if any will be highlighted on the website and notified to the registered teams.<BR/>- Any team found flouting any rules would be automatically disqualified.<br/>We will not provide any power supply. <BR/><BR/><b>ROBOT SPECIFICATION</b><BR/>- Robot can be wired or wireless.<BR/>- Only wheels are allowed for locomotion.<BR/>- At all times, bots behavior should be non offensive, non destructive and non harmful to humans and track.<BR/>- Bots are not allowed to fly or jump.<BR/>- Internal combustion engine cannot be used.<BR/><BR/><b>Robot must not</b><BR/>- Emit smoke or fire.<BR/>- Leak ,stain  or soil<BR/>- Spray, throw or use projectiles<BR/>- Jam, shock or electronically interface<BR/>- Maximum battery voltage is 24v<BR/>- The bot should fit in a box dimensions 30*25*25 cm<BR/>- The bot can?t be constructed using readymade kits.  But you can make use of readymade gear assemblies.<BR/><BR/><b>ARENA SPECIFICATIONS</b><BR>- The width of the track will vary between 40-50 cm<BR/>- The track will have many zones<BR/><BR/><b>ZONES:</b><BR/>- Sandy surface.<BR/>- Rocky surface.<BR/>- Elevated surface with maximum slope of 30 degrees.<BR/>- Bumps randomly placed.<BR/>- Greasy surface.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:ag.saurabh89@gmail.com'>Saurabh Agrawal</a></b>  94135 03760<br/><b><a href ='mailto:iitianpraveen@gmail.com'>Praveen Patel</a></b>  94614 27677 ]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7500/-]]></PRIZE>
+<ROOT>Robotics</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Electronics/Circuit-Designing.jpg</PATH>  
+<EVENTID>48</EVENTID> 
+<R>Circuit Designing</R> 
+<V>Circuit Designing</V> 
+<DESC><![CDATA[<I>When we build, let us think that we build forever. <BR/> -John Ruskin</I><BR/><BR/> Unleash your extreme skills in electronics and your profound knowledge of circuitry to solve the interesting, mind numbing on-spot problem statements. The Breadboard will be your stage and the IC`s will be the tools to implement your creation. So go on, unravel the mysteries of electronics to the hilt and become a winner.<br/><br/><b>Schedule:</b><br/>Prelims-11:00 to 12:00     19<sup>th</sup> Feb<br/>Finals - 13:00 to 15:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<b>General Rules:</b><BR/>- The complete event is an on spot event and all the rounds would be held at LNMIIT during VIVACITY 2010.<BR/>- This event is restricted to students currently pursuing their education in any recognized educational institute.<BR/>- A maximum of three participants can combine to form a team.<BR/>- Students from different colleges can be a part of the same team.<BR/>- The competition will be held in two stages.<BR/>- Organizers decision will be final in case of any misconceptions during the event.<BR/>- Organizers have right to modify rules during or before the event .<BR/>- An individual can`t participate in more than one team.<BR/>- Participants must bring their valid identity card of their institute.<BR/>- Any further modifications in the rules will be  will be highlighted on the website and will be notified to the repective participants.<br/><br/><b>Round 1:</b><BR/>- There will be a forty five minute objective type quiz on the fundamentals of analog and digital electronics.<BR/>- Selected teams from this round to proceed to the next round which is on hands-on i.e. on the breadboard.<BR/><BR/><b>Round 2:</b><BR/>- Herein the participants will try to perform hardware implementation of two design problems given on the spot.<BR/>- The maximum number of chips available for any team will be specified.<BR/>- The team should submit their working circuit along with the Circuit Schematic on a paper.<BR/>- Before connecting the power supply, the circuit has to be approved by the judge.<BR/>- The participants will be given a maximum of three hours to complete this circuit.<BR/>- We will provide you all the components along with CRO, Function Generator,Power Supply etc. <BR/><BR/><b>Judging Parameters:</b><br/>Round 2 :<BR>- Time taken - 20%<BR/>- Chips used - 30%<BR/>- Compactness & Reliability - 30%<BR/>- Deviation from ideal output - 20%]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:sudeshfor@gmail.com'>Sudesh Singhal</a></b>  98284 32420<br/><b><a href ='mailto:atbaheti.baheti24@gmail.com'>Ashutosh Baheti</a></b>  99280 11922<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+<ROOT>Electronics</ROOT> 
+ 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Music/BeatBoxing.jpg</PATH> 
+<EVENTID>50</EVENTID> 
+ <R>Beat Boxing</R> 
+<V>Beat Boxing</V> 
+<DESC><![CDATA[Awake your manly vocal bouts to salvo the beats. Soar up and be dynamite! <br/><br/><b>Schedule:</b><br/>13:00 to 13:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES></RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.5500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3000/-]]></PRIZE>
+<ROOT>Music</ROOT> 
+</EVT> 
+ 
+<EVT> 
+ 
+<PATH>Assets/Events/Music/Rapping.jpg</PATH> 
+<EVENTID>51</EVENTID> 
+ 
+<R>Rapping</R> 
+<V>Rap Away</V> 
+<DESC><![CDATA[Remember Bohemia? The rapstar?. Rapping , the heart of the hip hop. Create your own bizarre and attune to the blasting karaoke to rock the audience. Unleash your spirit and perfectly accord with the accompaniment. Time has come to unravel the rap star in you.<br/><br/><b>Schedule:</b><br/>13:30 to 14:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES></RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.4500/-]]></PRIZE>
+<ROOT>Music</ROOT> 
+</EVT> 
+ 
+
+ 
+<EVT> 
+<PATH>Assets/Events/Art N Craft/Caricature.jpg</PATH> 
+<EVENTID>53</EVENTID> 
+<R>Cartoon Making</R> 
+ 
+<V>Caricature Making</V> 
+<DESC><![CDATA[Unleash your creativity and imagination. Cartoonize any famous personality to exaggerate the message. Caricatures undo the extra ordinary features of what they intend to be. They hold an excellent sense of humour and speak stronger than real faces.<br/><br/><b>Schedule:</b><br/>14:00 to 16:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES></RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.3500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Art N Craft</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Literary/Jumble-Rumble.jpg</PATH> 
+<EVENTID>54</EVENTID> 
+<R>Jumble Word/Sentences</R> 
+ 
+<V>Jumble Rumble</V> 
+ 
+<DESC><![CDATA[Straighten up the words><BR/> Don't jumble up your brain<BR/> Rumble with the sentences<BR/> And play the humble game.<br/><br/><b>Schedule:</b><br/>16:00 to 17:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES></RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Literary</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Art N Craft/Body_Painting.jpg</PATH> 
+<EVENTID>55</EVENTID> 
+<R>Body Painting</R> 
+ 
+<V>Mohe Rang De</V> 
+<DESC><![CDATA[Bored of painting on the canvas?  Try this art on your body. Crimson Cerise, Denim, Buff....mingle all and create a dashing art . Have fun, enjoy yourselves painting off the canvas for once!!]]></DESC> 
+<RULES></RULES> 
+ 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.1500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Art N Craft</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Online Events/Recite-a-Painting.jpg</PATH> 
+<EVENTID>56</EVENTID> 
+<R>Recite A Painting</R>  
+<V>Recite A Painting</V> 
+<DESC><![CDATA[Unveil the lyricist in you and decipher the painting, work out the alchemy of the colours for their perfect interpretation. Let the rhyme reveal the theme.]]></DESC> 
+<RULES></RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.11000/-]]></PRIZE>
+<ROOT>Online Events</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Online Events/Short-Film-Making.jpg</PATH> 
+<EVENTID>57</EVENTID> 
+<R>Short Film Making</R> 
+<V>Director`s Cut</V> 
+<DESC><![CDATA[Give your thematic movie making talent a push and buck up your Steven Spielberg traits. Alchemize your ideas or anecdotes into splendid movie. Transform experiences into motion pictures and make sure it inculcates the power of communication.]]></DESC> 
+<RULES><br/> Make your own movie and send it to us <br/><br/>-You will have to give the identity of the Actors <br/>-There is no limit on the duration of the Movie</RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[]]></PRIZE>
+<ROOT>Online Events</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Online Events/Mr.-Miss-Photogenic.jpg</PATH> 
+<EVENTID>58</EVENTID> 
+ 
+<R>Mr N Miss Photogenic</R> 
+<V>Viva Dude N Diva</V> 
+<DESC><![CDATA[Ever thought of a career in modeling? Well here is a chance to enter the world of glamour.  Come up with your trendy and groovy snaps to give it a perfect shot. Make sure your pics reveal attitude and panache.]]></DESC> 
+<RULES> <br/> You Just Have to send us your Photographs thru mail <br/> And the Most Photogenic Persons will take the prize away <br/> The Mailing Address will be announced latter</RULES> 
+<CONTACT></CONTACT> 
+<PRIZE><![CDATA[]]></PRIZE>
+<ROOT>Online Events</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Programming/code-the-code.jpg</PATH> 
+<EVENTID>59</EVENTID> 
+<R>Code the code</R> 
+<V>Code the code</V> 
+<DESC><![CDATA[`The purpose of computing is insight, not numbers.` The commencement of `code the code` is the time when competition amongst everyone, is at its peak!! This is the time when everyone indulges in a tug of war to find the easiest and diligent logic, anomalies or extend the codes in C/java/C++ to be, the first one to win the hefty prize money! Again, the time constraint makes the tension among the competitors inevitable and excitement undeniable.<br/><br/><b>Schedule:</b><br/>Prelims-10:00 to 13:00     19<sup>th</sup> Feb<br/>Finals - 15:00 to 18:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<ul><li>The preliminary round will be held on 15th Feb. from 8:30 pm to 11:30 pm.</li><li>The participating team size should be 3 members.</li><li>Only 10 teams will be shortlisted as per the preliminary round.</li><li>Standard compilers for C, C++ and JAVA will be available.</li><li>The final round will consist of 4 problem statements.</li><li>The duration of the final round would be 3 hours.</li><li>The decision of the organizers shall be final in all matters.</li></ul>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:swaroopcool21@gmail.com'>Manohar Kuse</a></b>  97998 09089<br/><b><a href ='mailto:luckyagarwal3247@gmail.com'>Lucky Agarwal</a></b>  93140 04414<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.13000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.11000/-]]></PRIZE>
+<ROOT>Programming</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Raddrock.jpg</PATH> 
+<EVENTID>60</EVENTID> 
+ 
+<R>Rock Band Competition</R> 
+<V>Raddrock</V> 
+<DESC><![CDATA[Our unrestrained passion and undying belief in rock guides us through staging one of the biggest semi-professional rock band competitions in the nation, Radd Rock.  The guitar strums, drum beats, the rising crescendo, the thumping bass, we are as loud as they get with the who`s who in the semi-pro. Rock arena battling it out for the coveted numero uno spot, this is a spectacle like no other. Miss it at your own loss!<br/><br/><b>Schedule:</b><br/>Prelims-23:00 onwards(continued overnight)     18<sup>th</sup> Feb<br/>Finals - 18:30 to 20:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[Send in your group details >><a href='mailto:raddrock.vivacity@gmail.com'><b>HERE</b></a><br/>1. The rock performance registration fee amounts to RS 1000 per band participating.<br/>2. No restrictions on the lingo used but teams indicating obscene or offensive lyrics or gestures will be disqualified.<br/>3. All the bands should mail their VIDEOS to raddrock.vivacity@gmail.com by 15<sup>th</sup> Feb latest by 6 P.M. All the selected videos would be called up for the Audition Round.<br/>4. Rules subject to modification at the sole discretion of Organizing committee.    <br/><br/>Event will be divided into two stages:  <br/>Audition Round:     <br/>1. Each band will be given 15 min to perform and 5 mins for sound check. Each band is required to perform at least 2 songs. Any more songs that the band can fit into the time limit would be allowed. Exceeding the time limit will lead to negative marking.    <br/>2. The entries should reach latest by <b>15th February 2009.</b><br/><br/><b>Final Round:</b>     <br/>1. Three bands would be shortlisted for the final round to share the stage with the headline act.<br/>2. The order of performance will be determined by random selection process and will not be changed once decided by the committee in charge.    <br/>3. Apart from the drum-kit, the band is expected to carry their own instruments.    <br/>4. Each band would be given 20 mins to perform and 10 mins for initial sound check. Bands exceeding the time limit would be penalized as per the decision by the committee.    <br/>5. The final round would require 3 performances from each band. Any more songs that the band can fit into the time limit would be allowed. Exceeding the time limit will lead to negative marking.    <br/>6. Lyrics for all the three songs should be submitted on the day before the commencement of event.    <br/>7. Judging of the event will be based on the usual band competition criteria - the tightness of the band, the selection of material, the individual skills of instrumentalists, and the overall effect including audience appeal and appreciation.    <br/>8. Decision of judges would be final and binding on all participants.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:raddrock.vivacity@gmail.com'>Venkatesh Vishwanathan</a></b>  94600 17059<br/><b><a href ='mailto:raddrock.vivacity@gmail.com'>Vipul Rawal</a></b>  94600 15843<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.100000/-<br/>]]></PRIZE>
+<ROOT>Specials</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Paint-Ball.jpg</PATH> 
+<EVENTID>61</EVENTID> 
+<R>Paintball</R> 
+ 
+<V>Paintball</V> 
+<DESC><![CDATA[Ever dreamt to get into a gun fight in a real life without getting shot? Then this event is perfect for you. Prepared to get ambushed and over shoaled. No good over evil , No right over wrong, Just paint over paint. This test of reflexes and strategy elevates you to a playing ground of soldiers. A flurry of skirmishers will unravel in the backdrop of rollicking fun.<br/><br/><b>Schedule:</b><br/>18<sup>th</sup> Feb - 11:00 to 18:00 and 22:00 to 00:00     <br/>19<sup>th</sup> to 21<sup>st</sup> Feb   11:00 to 21:00]]></DESC> 
+<RULES></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:venkatesh.213@gmail.com'>Venkatesh Viswanathan</a></b>  94600 17059<br/>]]></CONTACT> 
+<ROOT>Specials</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/khoon.jpg</PATH> 
+<EVENTID>62</EVENTID> 
+<R>Blood Donation Drive</R> 
+<V>Khoon Chala</V> 
+ 
+<DESC><![CDATA[Among all the fun and frolic, one must not neglect the world around. There are millions all over the world who require aid. It requires us to take on more responsibilities, and step up to the cause.  As the mane suggests, Khoon Chala is an initiative by us to help the needy, by organising blood donation camps. Let`s come together for this great cause and play a hand in saving precious lives.  After all, it`s in your blood to save lives.]]></DESC> 
+<RULES></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:pankaj.khandal@gmail.com'>Pankaj Khandal</a></b>  94607 05231<br/><b><a href ='mailto:shubham.killme@gmail.com'>Shubham Jain</a></b>  99509 98725<br/>]]></CONTACT> 
+<ROOT>Specials</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/djnite.jpg</PATH> 
+<EVENTID>63</EVENTID> 
+<R>DJ Night</R> 
+<V>DJ Night</V> 
+<DESC><![CDATA[The wizard of fun will be churning out irresistible beats. With the perfect ambience and with unbelievably energized revellers for company, you will dance the night out. Moments of the event will resonate in every soul and the fond memories of this pulsating night will be yours` forever.<br/><br/><b>Schedule:</b><br/>23:00 onwards <br/>19<sup>th</sup>Feb and <br/>20<sup>th</sup>Feb]]></DESC> 
+<RULES></RULES> 
+<CONTACT></CONTACT> 
+<ROOT>Specials</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Vogue.png</PATH> 
+<EVENTID>64</EVENTID> 
+<R>Fashion Show</R> 
+<V>Vogue</V> 
+<DESC><![CDATA[The glitz, glamour and the chutzpah of the pink city`s hottest fashion event is back. Welcome to VOGUE 2010 , the fashion extravaganza of the biggest fest in Jaipur, VIVACITY 2010.Get ready to flaunt your style and mesmerize one and all with its sheer magnetism. Scorch the ramp, charm the fashionists at THE LNM INSTITUTE OF INFORMATION TECHNOLOGY in this year`s edition of the VOGUE. You cant afford to miss this one!!!!!!<br/><br/><b>Schedule:</b><br/>Prelims-10:30 to 13:30     19<sup>th</sup> Feb<br/>Finals - 20:00 to 23:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[There will be two rounds: 1.Preliminary round 2.Main round Rules for preliminary round:><BR/>-There would be no marks for the costumes in prelims. <BR/>-Maximum time limit per team is:7-8minutes.  General rules and regulations:<br/><b>NOTE:TWO ENTRIES PER COLLEGE.</b><BR/>-THEME based fashion show with decent outfit. <BR/>-Maximum of 14 participants per team exclusive of the designer, choreographer and supporting members. <BR/>-Time limit for the main round is 15-20 minutes(inclusive of stage set up).All teams have to present their introduction before starting(extra 4-6 minutes will be given for that).Points will be deducted for exceeding the limits. <BR/>-A T-shaped extension will be provided on the main stage. Both the stage and extension must be used as a walking ramp. <BR/>-One person per team must be there to manage sound track and one for the lights. <BR/>-On-stage practice slots will be provided to the teams who qualify preliminary round. <BR/>-Emphasis will be given to clothing, walking style and originality. <BR/>-No props and costumes will be provided by us. Teams have to bring their own costumes and props. <BR/>-Use of materials like candles, matches, cigarettes, alcohol and any other hazardous material on stage is strictly banned. Teams are required to contact organizers before using such stuff. <BR/>-Two copies of sound track to be submitted in advance in standard audio format <BR/>- .wav or .mp3 of sound quality 192kbps or above to the organizers(in CD`s only, no laptops). <BR/> -Every team must use secured green room for changing their costumes(especially girls).  <BR/>-Vulgarity of any kind would lead to disqualification of the team from the event. Hence, if the team feels that any stunt or costume design can be deemed as vulgar, it is strongly advised to consult the organizers than performing it directly on stage. <BR/>-The decision of the judges and organizing committee will be final and binding in all. <BR/>-All teams have to confirm their participation by sending the details of their team in an e-mail to vivacity2010@gmail.com <BR/>- Special prizes for best male and female model. <BR/>-  Candidates for the best male and female model will be choosen from all the teams during their performance. The candidates thus selected would perform individually for the title. <BR/>-  Each team has to submit a passport size photograph of all its team members prior to the event. <BR/>-  Each team must be accompanied by a team coordinator and a theme narrator.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:piyush.aiming@gmail.com'>Piyush Agarwal</a></b>  93144 48286<br/><b><a href ='mailto:roxydixy@gmail.com'>Dixit Singhvi</a></b>  94626 55890<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.103500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.76000/-]]></PRIZE>
+<ROOT>Specials</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/fotohack.jpg</PATH> 
+<EVENTID>65</EVENTID> 
+<R>Photo Retouching</R> 
+<V>F0T0H@CK</V> 
+<DESC><![CDATA[You have an eye for detail and just love playing with images, then this event beckons you. It?s a contest for people who can make ordinary photographs magical.  A good photoshop artist adds another dimension to a photograph bringing its subtle message to the front .><br/>You will be given a collection of photographs. Using them weave a fantabulous creation that will dazzle everyone with its beauty and uniqueness.<br/><br/><b>Schedule:</b><br/>11:30 to 13:30     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[1. Participation: individual/a team of 2 .><br/>2. The software provided will be Student Edition of Adobe Photoshop CS3.<BR/>3. Using a minimum of 4 photographs out of 10 provided, each group will have to create an image.<br/>4. The image should be submitted in jpeg FORMAT. The size of the image should be 800x600 pixels.<br/>5. Only the default fonts and default filters of the software can be used.<br/>6. A text file listing the complete procedure including filter options used etc should be submitted along with the image. ]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:harsh.08@lnmiit.com'>Harsh Arora</a></b>  94614 29407<br/><b><a href ='vish13.4u@gmail.com'>Vishal Bharadwaj</a></b>  94607 86847<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.2000/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Management/analyst.jpg</PATH> 
+<EVENTID>66</EVENTID> 
+<R>Analyst</R> 
+<V>Analyst</V> 
+<DESC><![CDATA[If you idolize Warren Buffet and constantly chase stock and commodity market . If you think that you are well acquainted with the current market trends, then this is the perfect opportunity to dazzle each one with your bq (business quotient!) and intellect. So get prepared to be grilled by our elite panel of experts,remember there are great prizes to be won.<br/><br/><b>Schedule:</b><br/>17:30 to 19:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Team size is limited to 2><br/>- The event will be counducted in two rounds.<br/>- First round will be a written questionaire evaluating your basic knowledge and current affairs of market.<br/>- Teams selected for the 2nd round will finally be judged upon their stock and commodity market strategies and their knowledge of past trends of Indian stock and commodity market.<br/> - The decision of judges will be final and binding.<br/>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:management.vivacity@gmail.com'>Himanshu</a></b>  99280 22596 <br/><b><a href ='mailto:management.vivacity@gmail.com'>Karan Jhanwar</a></b>  93513 68415 ]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.7000/-]]></PRIZE>
+<ROOT>Management</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/FunShaala/standup.jpg</PATH> 
+<EVENTID>67</EVENTID> 
+<R>Stand Up Comedy</R> 
+<V>Stand Up Comedy</V> 
+<DESC><![CDATA[Laughter, along with an active sense of humor, may help protect you against a heart attack !!! So, get ready to save yourself and the people around you .><br/>Here is an event to show your energetic and pulsating exhibition of skills of humor. You are to recite a fast-paced succession of humorous stories, short jokes and one liners or imitate a personality to sway the minds of the masses as this event is openly devoted to getting immediate laughs from the audience.<br/><br/><b>Schedule:</b><br/>11:00 to 12:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[- Participants can act either in Hindi or English .><br/> 
+- You can use props, music or magic tricks to enhance your acts. The requirements should be brought on your own and will not be provided. <br/> 
+- You can chose any topic of your own.But vulgarity is strictly discouraged and proper limits need to be assured by the participants so as not to hamper the self respect of any individual. Else these may lead to disqualification. <br/> 
+- Time limit : Minimum 3 min , Maximum 5 min. Negative points for exceeding the maximum time limit. <br/> 
+- No recorded sounds(except music) are allowed. <br/> 
+- Decisions made by the judges would be final. <br/> 
+]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:mariyaquibtiya@gmail.com'>Mariya Quibtiya</a></b>  80035 06452<br/><b><a href ='chetnamay14@gmail.com'>Chetna Das</a></b>  99298 29591<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.9500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+
+<EVT> 
+<PATH>Assets/Events/FunShaala/jodi.jpg</PATH> 
+<EVENTID>68</EVENTID> 
+<R>Jodi No 1</R> 
+<V>Jodi No 1</V> 
+<DESC><![CDATA[Sure, you two are totally tight..... but are you truly tuned into each other ???<br/> 
+As the saying goes, a real friend is someone who knows everything about you and likes you anyway. So friends, JUDGE ` How Well Do You Know Your Best Friend ` !!!<br/> 
+You will simply be asked questions about each other and will be judged on the basis of maximum number of correct answers you give.<br/><br/><b>Schedule:</b><br/>11:30 to 13:00     19<sup>th</sup> Feb
+]]></DESC> 
+<RULES><![CDATA[- Each team will have two participants .><br/> 
+- Questions will be given on the spot.<br/> 
+- While the event is on floor, any sort of communication(mobile phones, messages,prompting, signs or hints,etc.) between the partners will be regarded as unfair means and will lead to disqualification of the team.<br/> 
+- Decisions made by coordinators would be final.
+]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:mariyaquibtiya@gmail.com'>Mariya Quibtiya</a></b>  80035 06452<br/><b><a href ='chetnamay14@gmail.com'>Chetna Das</a></b>  99298 29591<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.6000/-<br/>]]></PRIZE>
+<ROOT>FunShaala</ROOT> 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Workshops/hacking.jpg</PATH> 
+<EVENTID>69</EVENTID> 
+<R>Ethical Hacking Workshop</R> 
+<V>HacXploit 2010</V> 
+<DESC><![CDATA[Are you crazy about hacking? Want to learn advanced ethical hacking?><br/>Then this is the right place for you to be ..<br/> <br/> This year LNM IIT,Jaipur organizes <b>HacXploit 2010</b> - A two-day Workshop on Ethical Hacking and Information Security in association with Sunny Vaghela,<br/> Director &amp; CTO of TechDefence Pvt. Ltd.<br/> <br/> <br/>The workshop is specially designed by LNM IIT, Jaipur in co-ordination with TechDefence for aspiring hacking and information security geeks.<br> <br/><b>Workshop contents</b><br/> Cyber Ethics<br/> Information Gathering And Scanning<br/> Email Hacking<br/> Google Hacking<br/> Mobile & VoIP Hacking<br/> Wireless Hacking<br/> Web Application Hacking<br/> Cyber Crime Investigation<br/> Cyber Law<br/> For detailed contents click <a href='http://www.sunnyvaghela.com/lnmiit.html'>here</a><br/><br/><b>Workshop package includes</b> <br/> Workshop participation fee<br/> TechDefence ethical hacking Toolkit fee(worth 300 Rs)<br/> CPH certification fee<br/> Ethical hacking handouts<br/><br/><b>Workshop duration</b><br/>10 Hours / 1 Day<br/> <br/><b>Workshop Fees</b><br/>Rs. 600 per student<br/><br/>Schedule:</b><br/>09:00 to 19:00     20<sup>th</sup> Feb<br/>09:00 to 19:00     21<sup>st</sup> Feb]]></DESC> 
+<CONTACT><![CDATA[<b><a href='mailto:atrniv@gmail.com'>Johny Jose</a></b>  94605 73312<br/><b><a href='mailto:subs.zero@gmail.com'>Subho Bannerjee</a></b>  94600 16908]]></CONTACT> 
+<REG>http://www.sunnyvaghela.com/lnmiit.html</REG> 
+<ROOT>Workshops</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Electronics/Tech-Exhibition.jpg</PATH> 
+<EVENTID>70</EVENTID> 
+<R>Electronics Exhibition</R> 
+<V>Abhikriti</V> 
+<DESC><![CDATA[<i>'A genius is one who shoots at something no one else can see - and hits it.'</i><br/><br/>The students of LNMIIT proudly bring before you the first edition of Abhikriti - a dazzling exhibition of gizmos and intelligent models-sure to enthral the audience. Abhikriti provides the ideal use of your time between the heat of Vivacity-2010 when you can relax and praise the beauty of objects that range from intensely complex to simple and yet dazzling innovations and have a glimpse of ideas never seen before.<br/>There is no better place to showcase 'The grandeur of knowledge' than a stage which is rich in it. It`s nothing less than an exhibition of brilliance.<br/>So people...<br/>`see it to believe it!'<br/><br/><b>Schedule:</b><br/>11:00 to 14:00     21<sup>st</sup> Feb]]></DESC> 
+<RULES><![CDATA[The team size in any circumstance should not exceed 3-4. Project from the field of Microcontroller and embedded system, based on VLSI, Bio medical system, PC interfacing and Computer vision on hardwares are welcome in ABHIKRITI.><br />Every team is required to submit an abstract that should be found illuminating in the following spheres:- <br/>- Teams are expected to mail their respective abstract <a href ='mailto:lokesh.charora13@gmail.com'><u>HERE</u></a> by 15th Feb.2010.<br />- The teams should note that the abstract should be accepted only in Pdf (Portable Document Format) format.<br />- The first page of the abstract must contains the title of the project, team name, team member name, email-id and it`s objective along with their respective institutes name in a legible  manner.<br />- A team member cannot participate in more than one project.<br />- Abstract should clearly inform about the core idea at the heart of your project.<br />- The working of your project should be well illustrated with the help of Diagram, flowcharts and various technicalities and the functional analysis of your project should also included.<br />- The abstract may be supported by a descriptive figure/graphs. Photographs regarding the projects are highly recommended. Diagram and all other pictorial content should be on separate pages. However the team must note that in any circumstance their abstract cannot exceed six pages.<br />- The  project should touch upon the specific problem for which it is geared to solve.<br />- A comment on marketability of the project and it`s commercial application will be highly appreciated.<br />- It is expected from the team that their abstract should be descriptive and not vague.<br />- The team who will be found fit for further participation in the exhibit will be intimated by mail. The list of short listed teams will be displayed on the website as well.<br />- The selected teams would be called to LNMIIT for the exhibition.<br />- If you have any additional requirement from the organizer please mention it before hand rules, regarding submission.<br />- Qualified team will be provided with spacious desk that would have their projects. Our elite panel of judges will review the projects and will grade them on various parameters.<br />- It must be very clear that any additional requirements pertaning to the working of your project model shall not be entertained by the organizers.<br />- We are going to provide only one 220v/50Hz port and PC for PC interfacing project. Teams who require more ports must bring their own extension cords. Teams who require 5 volt/12 volt supply will not be provided that the circuitry should be inbuilt or you bring your own battery.<br />- Kindly note that in case of submission of more than one abstract of same project only the last one will be considered.<br />- The decision of judges should be final and acceptable.<br />- The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered participants.<br />- Organizers decision will be final in case of any misconception during the event. <br />- Participants must bring their valid identity card of their institute.<br />If in doubt please feel free to contact any of the event managers given below either by phone or through an e-mail.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:chandreshpancholi007@gmail.com'>Chandresh Pancholi</a></b>  94614 64861<br/><b><a href ='mailto:lokesh.charora13@gmail.com'>Lokesh Charora</a></b>  94686 79552<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.2000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Electronics</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/paper.jpg</PATH> 
+<EVENTID>71</EVENTID> 
+<R>Paper Presentation</R> 
+<V>Paper Presentation</V> 
+<DESC><![CDATA[<i>The following participants have been shortlisted for the finals @ Vivacity 2010.<br/><a href="rules/paperShortlist.pdf">Click here for the list</a><br/>`MIND has ever been the ruler of universe-the vitality of thought is in the adventure.All that we are is the result of what we have thought.`</i><br/>Often ideas keep nudging us for long.If you think it is the next big thing that will transform technology, then this event provides the perfect platform for you to showcase it and let the world open up tomorrow with your thought. This event is for all those who are deeply involved in researching the different dimensions of science and engineering and is designed to develop a scientific attitude and refine concepts.<br/><br/><b>Schedule:</b><br/>16:00 to 18:00     19<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<b>Time-Limits</b><br/>- Oral Presentation (with PowerPoint): 10 minutes maximum<br/>- Question & Answer session by Judges: 2 minutes<br/>- TIME LIMIT SHOULD BE STRICTLY FOLLOWED! Any extension can lead to deduction of marks.<br/>- The team size in any circumstance cannot exceed two.<br/>- A team member cannot participate in more than one project.<br/>- The abstract should be mailed in pdf format on or before 13th feb 2010 on the given mail ids<br/>- Late submissions will not be entertained.<br/>- The list of short listed teams will be intimated by mail and would be invited to LNMIIT for the Presentation and displayed on the website as well.<br/><br/><b>CONTENTS OF THE ABSTRACT</b><br/>- Abstract limit: 300 words<br/>- The first page should contain<br/><ul><li>The title of the project</li><li>It’s objective</li><li>Team & Team members name, email-id</li><li>The respective institutes name.</li></ul>- The abstract should clearly inform about the core idea of your project.<br/>- The abstract should be descriptive and not vague.<br/>- The project should be well illustrated with the help of Diagram, flowcharts and various technicalities and the functional analysis of your project should also be included.<br/>- The abstract may be supported by descriptive figure/graphs. Photographs regarding the projects are highly recommended.<br/>- The project should focus upon the specific problem for which it is geared to solve.<br/>- A comment on marketability of the project and it’s commercial application will be highly appreciated.<br/>- All audio-visual equipment will be provided: computer, microphones, speaker system, digital projection system etc.<br/>- Incase of any discrepancy the verdict of judges will have paramount consideration.]]></RULES> 
+<CONTACT><![CDATA[<b><a href='ankita.lnmiit@gmail.com'>Ankita Kothari</a></b>  94136 52038<br/><b><a href='nehabaheti16@gmail.com'>Neha Baheti</a></b>  93519 18795]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+<ROOT>Electronics</ROOT> 
+</EVT> 
+ 
+ 
+<EVT> 
+<PATH>Assets/Events/Workshops/X-AutoBOT.jpg</PATH> 
+<EVENTID>72</EVENTID> 
+<R>Robotics Workshop</R> 
+<V>X-AutoBOT</V> 
+<DESC><![CDATA[<b>X-AutoBOT</b> is a workshop that introduces you to the exciting world of microcontrollers! The workshop designed by ThinnkWare is a two day workshop that is aimed at giving hands-on feel of working with industry adopted microcontrollers. Various interesting open problems are floated and the participants are encouraged to think out-of-box and come up with innovative ideas. Post workshop, a participant gets good exposure to artificial intelligence and embedded systems and is ready to embark on numerous exciting microcontroller based projects.<br/><br/><b>Company Profile</b><br/><b>M/s ThinnkWare</b> is a venture which deals in the domain of Robotics, Embedded Systems & MATLAB with strategically current focus in educational domain to bridge the gap between Industry demands & current academics offerings in Institutes. With a passion in Robotics and keeping constant eye on various national & international events, we have vast experience in the same and a constant focus in this grooming industry. <b>ThinnkWare</b> was founded by a strong team of young Engineers & budding Entrepreneurs working in the same industry, and is currently incubated at STEP-ITBI, JSSATE Noida. The company is properly backed by the experienced IITians and Industries.<br/><br/><br/><b>Workshop Course content</b><br/><b>The concepts that will be covered are</b><br/><ul><li>Basics of Microcontroller</li><li>Introduction to autonomous Robotics.</li><li>Various types of sensors</li><li>Electrical Characteristics of Sensors</li><li>Intelligence in robots without Micro-controller</li><li>Architecture of AVR Micro-controller</li><li>Embedded C</li></ul><br/><b>Hands-on session will include</b><br/><ul><li>Working with AVR micro-controller (ATMEGA 16)</li><li>Using Ponyprog & Controller</li><li>Working with compilers (WinAVR and AVR Studio)</li><li>Controlling Stepper motors using microcontroller</li><li>Working with IR Sensor</li><li>Interfacing of LCD</li><li>ADC</li><li>Timer & Interrupt</li><li>Robot architecture and chassis design</li><li>Programming of robot with sensor calibration</li><li>Implementing obstacle detection/avoiding on robot using IR sensor with microcontroller</li><li>Implementing line following on robot using IR Sensor with microcontroller</li><li>Practice on Arena</li></ul><br/><br/><b>Schedule:</b><br/>10:00 to 16:30     19<sup>th</sup> and 20<sup>th</sup> Feb<br/>]]></DESC> 
+<RULES><![CDATA[]]></RULES> 
+<CONTACT><![CDATA[<b>Course Fees:</b><br/><ul><li>Rs. 1500/- per student</li><li>A take away kit will be given to a team of maximum of 4 students</li><li>The cheque/DD should be in favor of ThinnkWare payable at Delhi</li><li>The cash can be paid at LNMIIT, Jaipur campus</li><li>The kits are also available at <a href='http://www.thinnkware.com'>www.thinnkware.com</a></li></ul><br/><br/><b>For any technical query:</b><br/><b>Write at <a href='mailto:ask@thinnkware.com'>ask@thinnkware.com</a></b><br/><br/>Event Co-ordinator :<br/><b><a href ='mailto:atbaheti.baheti24@gmail.com'>Ashutosh Baheti</a></b>    99280 11922<br/>]]></CONTACT> 
+
+<ROOT>Workshops</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/parikrama.jpg</PATH> 
+<EVENTID>73</EVENTID> 
+<R>Rock Night</R> 
+<V>Parikrama</V> 
+<DESC><![CDATA[It is but a way of life for these six, going this way ever since that summer afternoon in Delhi. 17th of June, 1991. They named it PARIKRAMA: literal Hindi means revolving around... Encircling. In essence, 'KARMA', living our lives doing what one ought to, keeping to one`s own chosen path, and on and on. Them were either out of the same school, into the same college, whistling similiar tunes, or sharing brains. It has been so, all these years, it probably will be so awhile. Small wonder then, if you see the same old faces. It only keeps getting rockier and rolliest. Especially the ones that are dished out with that screeching violin. Or ones that begin with about thirty fiery balls of fire, not in one bang, but a million colors ... so to say><br/><br/> That`s parikrama for you, ladies and the rest of us. They`ve stayed in orbit, and kept the light ... from six playing members to ten at times, they love playing those hearts out. And when it's time to stop playing around, like all good God's children, them go to work.<br/><br/><b>Schedule:</b><br/>21:00 to 22:30     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[]]></RULES> 
+<CONTACT><![CDATA[]]></CONTACT> 
+<ROOT>Specials</ROOT> 
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Technical/Programming/hashbang.jpg</PATH> 
+<EVENTID>74</EVENTID> 
+<R>Shell Scripting</R> 
+<V>Hash Bang</V> 
+<DESC><![CDATA[<b>Shell scripting</b> is like writing lyrics for coders. As powerful lyrics lifts a rock song, a well written shell script can transform your operating system experience. The event is an arena for the best of the shell scripters to show their trailblazing scripts. Typical operations performed by shell scripts include file manipulation, program execution, and printing text.so can you operate manipulate and execute optimally with shell scripts. Your skills will be throughouly tested.<br/><br/><b>Schedule:</b><br/>14:00 to 16:00     20<sup>th</sup> Feb]]></DESC> 
+<RULES><![CDATA[<ul><li>A team can comprise of maximum two members.</li><li>One system with fedora 10 operating system will be provided to each team.</li><li>Any of the following languages(perl, bash ,python) can be used.</li><li>Any external storage media or any other refrence material will not be allowed at the competition venue.</li><li>Reference material will be provided for the participants.</li><li>No internet access is allowed during competition through any medium.</li><li>Material for rough work will be provided.</li><li>Participants cannot interact with anyone except with the organizers present in the venue.</li><li>The decision of the organizers will be considered final and binding.</li><li>Execution and submission time will be considered for judging the teams</li><li>The organizers reserve the right to append or modify any of the above rules at their own discretion.</li></ul>]]></RULES> 
+<CONTACT><![CDATA[<b><a href='mailto:swaroopcool21@gmail.com'>Manohar Kuse</a></b>97998 09089<br/><b><a href='mailto:paras.sethia1990@gmail.com'>Paras Sethia</a></b>94601 82459<br/>]]></CONTACT> 
+<ROOT>Programming</ROOT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.5500/-]]></PRIZE>
+</EVT> 
+ 
+<EVT> 
+<PATH>Assets/Events/Gaming/fifa.jpg</PATH> 
+<EVENTID>75</EVENTID> 
+<R>EA Sports : FIFA 08</R> 
+<V>FIFA 08</V> 
+<DESC><![CDATA[<b><i>'Can You FIFA 08?'</i></b><br/><br/>With so many leagues to play in, and a plethora of top-flight clubs to choose from, one couldn't ask for better. So put on your shoes and step into the Old Traffords or the Santiago Bernabéux, with a solitary aim: Victory! Control the best contemporary players on Earth, and make your opponents eat dirt with their skill and flair.<br/><br/>Pass! Dribble! Cross! Shoot! and <b>GOAL!!!</b>]]></DESC> 
+<RULES><![CDATA[<a href='rules/fifa.pdf'><img src='css/images/download.png' alt='get'/></a>&nbsp;&nbsp;<a href='rules/fifa.pdf'>Download</a>]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:pranoythecoolest@gmail.com'>Pranoy Agarwal</a></b>94144 49676<br/><b><a href='mailto:aryanpreeks@gmail.com'>Prateek Agrawal</a></b>94607 05164<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.7500/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.3500/-]]></PRIZE>
+<ROOT>Gaming</ROOT> 
+</EVT> 
+
+
+<EVT> 
+<PATH>Assets/Events/Technical/Programming/technoholix.png</PATH> 
+<EVENTID>76</EVENTID> 
+<R>Windows Wizard</R> 
+<V>Technoholix</V> 
+<DESC><![CDATA[So you think you know your way around windows®?<br/>Then put on your tweak shoes and get ready to show us how well you can bend it.<br/>Carve your way out as we put obstacles and pitfalls in your way. At last only the mightiest will survive.<br/><br/><b>Schedule:</b><br/>Prelims-11:30 to 13:00     20<sup>th</sup> Feb<br/>Finals - 14:00 to 15:30     20<sup>th</sup> Feb]]></DESC>
+<RULES><![CDATA[1. A total of 15 participants will be selected through written prelims.<br/>2. The final round would be of 1hr duration.<br/>3. You will be provided a list of tasks to be accomplished by you. Each task would have certain credits.<br/>4. Tasks can be anything involving Windows® utilities, system tweaks and a general know how of the windows operating system.<br/>5. All the material required would be already provided.<br/>6. Use of Internet or any other means of communication is strictly prohibited.<br/>7. The decision of the organizers shall be final in all matters.]]></RULES> 
+<CONTACT><![CDATA[<b><a href ='mailto:luckyagarwal3247@gmail.com'>Lucky Agarwal</a></b>    93140 04414<br/>]]></CONTACT> 
+<PRIZE><![CDATA[<b>1<sup>st</sup> Prize:</b> Worth Rs.3000/-<br/><b>2<sup>nd</sup> Prize:</b> Worth Rs.1000/-]]></PRIZE>
+<ROOT>Programming</ROOT> 
+</EVT>  
+ 
+</xmlresponse> 

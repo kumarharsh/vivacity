@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FEATURES>
+
+<FEAT>
+<id>01</id>
+<image>Assets/features/feat_01.jpg</image>
+<title>Feature 1</title>
+<info>The vivacity WHAT'S HOT feature is in beta stage as of now... lets see if i can implement this before 10th... If this is done then i'd be so... happie !!!</info>
+<xlink>http://vivacity.lnmiit.ac.in</xlink>
+</FEAT>
+
+<FEAT>
+<id>02</id>
+<image>Assets/features/feat_02.jpg</image>
+<title>Feature 2</title>
+<info>The same feature is in now gonna rock!!! oh yeah!!!</info>
+<xlink></xlink>
+</FEAT>
+
+
+</FEATURES>

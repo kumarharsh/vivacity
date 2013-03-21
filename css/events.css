@@ -1,0 +1,207 @@
+/* the information block */
+#eventBlock {
+	min-width:640px;
+	width:800px;
+	margin:20px auto;
+	overflow:hidden;
+	text-align:center;
+}
+.eventBlock_inside {
+	display:block;
+	padding-right:5px;
+	margin:0 auto;
+	overflow:auto;
+	height:auto;
+}   
+#eventHolder{
+	background:#900;
+	display:block;
+	overflow:auto;
+	margin:0 auto;
+	top:50%;
+	padding:15px 0;
+	text-align:justify;
+}
+
+.cat {
+	position:relative;
+	display:block;
+	float:left;
+	width:150px;
+	height:170px;
+	margin:5px 25px;
+
+}
+.catImg {
+	position:relative;
+	width:150px;
+	height:150px;
+	top:0px;
+	display:table-cell;
+	vertical-align:middle;
+}
+.catDesc {
+	position:relative;
+	width:150px;
+	height:20px;
+	display:block;
+	clear:both;
+	color:#FFF;
+	font-size:12px;
+	font-weight:bold;
+	text-align:center;
+}
+.catDesc a, .catDesc a:hover {
+	color:#FFF;
+	font-size:12px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+}
+#catBlock {
+	width:40%;
+	display:block;
+	margin:0 auto;
+	padding:10px;
+	overflow:visible;
+	background:#c00;
+	text-align:center;
+	color:#FFF;	font-size:1.5em;
+	text-align:center;	font-weight:bold;
+}
+#catNav {
+	width:63px;
+	height:40px;
+	display:block;
+	margin:0 auto;
+}
+#catNav a {
+	width:63px;
+	height:40px;
+	display:block;
+	background:url(images/up.png) top left no-repeat;
+}
+#catNav a:hover,#catNav a:active {
+	background-position:bottom left;
+}
+
+#event {
+	position:relative;
+	width:100%;
+	margin:0 auto;
+	overflow:auto;
+}
+#eventImg {
+	margin:20px;
+    float:left;
+	clear:left;
+	height:150px;
+	width:150px;
+}
+#eventInfoBox {
+	display:block;
+	color:#DDD;
+	margin-top:40px;
+	margin-right:10px;
+ 	padding:5px 10px;
+	padding-left:190px;
+	text-align:justify;
+	background:#600;
+	border-top:solid 1px #400;
+	border-bottom:solid 1px #D00;
+	border-right:solid 1px #B00;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+
+#eventInfoBox a, #eventInfoBox a:hover {
+	color:#FFF;
+	font-size:14px;
+	text-decoration:none;
+}
+#eventInfoBox a:hover {
+	color:#FFF;
+	font-size:14px;
+	text-decoration:underline;
+}
+#eventInfoBox b a {
+	color:#Fcc;
+	display:inline-block;
+	width:180px;
+}
+
+ul#eventMenu {  
+    margin:0px; padding:0px;
+	margin-right:10px;
+	position:relative;
+	float:right;
+}
+ul#eventMenu li {
+    display:inline;  
+    margin-left:12px;  
+}
+ul#eventMenu li a {
+	padding:2px 5px;
+	text-decoration:none;
+	color:#FFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+ul#eventMenu li a.active, ul#eventMenu li a:hover {
+	background:#600;
+	border-top:solid 1px #400;
+	border-bottom:solid 1px #D00;
+	border-right:solid 1px #B00;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	color:#FFF;
+}
+
+#eventInfoBox table {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFF;
+}
+#eventInfoBox table a{
+	text-decoration:none;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+	padding:1px 3px;
+	color:#FFF;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+}
+#eventInfoBox table a:hover{
+	text-decoration:none;
+	font-size:10px;
+}
+.btnClose {
+	width: 40x;
+	height: 20px;
+}
+.btnClose a {
+	background:#900;
+	border:1px solid #F00;
+	border-top-color:#300;
+	border-left-color:#600;
+}
+.btnClose a:hover {
+	background:#400;
+	color:#999;
+}
+
+.btnRead a {
+	background:#069;
+	border:1px solid #0CF;
+	border-top-color:#049;
+	border-left-color:#009;
+}
+.btnRead a:hover {
+	background:#003;
+	color:#999;
+}

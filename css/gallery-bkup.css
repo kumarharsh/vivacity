@@ -1,0 +1,58 @@
+#controls {
+	position:relative;
+	margin:-80px auto 0 auto;
+	height:50px;
+	width:390px;
+	display:table;
+}
+.btn_gal,.btn_galBig {
+	float:left;
+	width:75px;
+	height:37px;
+}
+.btn_galBig {
+	height:50px;
+	width:90px;
+}
+.btn_gal a,.btn_galBig a{
+	text-align:center;
+	vertical-align:middle;
+	text-transform:none;
+	display:table-cell;
+	background:url(images/btn-square.png) top left;
+	width:75px;
+	height:37px;
+}
+.btn_galBig a{
+	height:50px;
+	width:90px;
+	background:url(images/btn-squareBig.png) top left;
+}
+.btn_gal a:hover, .btn_galBig a:hover {
+	background-position:bottom left;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#imgwrapper {
+	margin:0 auto;
+	width:99%;
+	height:376px;
+	background:url(images/holder-back.png) no-repeat top left;
+	padding-top:50px;
+/*	display:block;*/
+}
+
+#imgHolder {
+	margin:0 auto;
+	width:410px;
+	height:310px;
+	background:none;
+}
+#imgDesc {
+	color:#333;
+	font-size:12px;
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+}

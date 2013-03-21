@@ -1,0 +1,78 @@
+<script type="text/javascript" src="javascript/register.js"></script>
+<script src="javascript/cal/jscal2.js"></script>
+<script src="javascript/cal/lang/en.js"></script>
+
+<link type="text/css" rel="stylesheet" href="css/cal/jscal2.css" />
+<link type="text/css" rel="stylesheet" href="css/cal/border-radius.css" />
+<link id="skin-win2k" title="Win 2K" type="text/css" rel="alternate stylesheet" href="css/cal/win2k/win2k.css" />
+<link id="skinhelper-compact" type="text/css" rel="alternate stylesheet" href="css/cal/reduce-spacing.css" />
+
+<div class="block">
+	<form onkeypress="if(event && event.which==13) registerMe(); else if(window.event && window.event.keyCode==13) registerMe();">
+    	<label class="formHeader">LOGIN DETAILS</label>
+        <div id="error">	</div>
+        <div class="formWrapper">
+		<label>Username</label>	<input type="text" id="username" size="30"/>
+    		<div class="formAnnotation">Username is subject to availability</div>
+		<label>Password</label>	<input type="password" id="password" size="30" maxlength="45" />
+            <div class="formAnnotation">Password should be atleast 6 characters long</div>
+   		<label>Re-Type Password</label><input type="password" id="repassword" size="30" maxlength="45" />
+            <div class="formAnnotation">Make sure the two match!</div> <br />
+		</div>
+    	<label class="formHeader">PERSONAL DETAILS</label> <br />
+        <div class="formWrapper">
+    	<label>Name</label>			<input type="text" id="name" size="30" />
+      		<div class="formAnnotation">&nbsp;</div>
+        <label>Contact No</label>		<input type="text" id="phone" size="30" />
+			<div class="formAnnotation">If you want SMS updates, give a Mobile Number formatted as : +91xxxxxxxxxx</div>
+        <label>E-Mail</label>		<input type="text" id="email" size="30" />
+      		<div class="formAnnotation">&nbsp;</div>
+        <label>Gender</label>	<select id="gender">
+        							<option value="M">Male</option>
+                                    <option value="F">Female</option>
+                                </select>
+      		<div class="formAnnotation">&nbsp;</div>
+        <label>Date Of Birth</label>        
+        <input name="date" value="" id="dateOfBirth" size="25" type="text">
+       	<img src="css/images/cal.gif" style="margin-left:5px;" width="16" height="16" border="0" alt="Calendar" id="calTrigger"/>
+		<script type="text/javascript">
+                  new Calendar({
+                          inputField: "dateOfBirth",
+                          dateFormat: "%B %d, %Y",
+                          trigger: "calTrigger",
+                          bottomBar: false,
+                          onSelect: function() {
+                                  var date = Calendar.intToDate(this.selection.get());
+                                  LEFT_CAL.args.min = date;
+                                  LEFT_CAL.redraw();
+                                  this.hide();
+                          }
+                  });
+                  function clearRangeStart() {
+                          document.getElementById("f_rangeStart").value = "";
+                          LEFT_CAL.args.min = null;
+                          LEFT_CAL.redraw();
+                  };
+                </script>
+
+
+<!--        <input name="date" value="" id="dateOfBirth" size="25" type="text">
+		<a href="javascript:NewCal('dateOfBirth','ddmmmyyyy',false,24)">
+        	<img src="css/images/cal.gif" width="16" height="16" border="0" alt="Calendar"/></a>  -->
+   		<div class="formAnnotation">MonthName MM, YYYY</div> <br />
+		</div>
+    	<label class="formHeader">ACADEMIC DETAILS</label> <br />
+        <div class="formWrapper">
+        <label>College</label>	<input type="text" id="college" size="50" />
+      		<div class="formAnnotation">&nbsp;</div>
+        <label>Course</label>	<input type="text" id="course" size="50" />
+      		<div class="formAnnotation">&nbsp;</div>
+        <label>Semester / Year</label>	<input type="text" id="semester" size="8" />
+      		<div class="formAnnotation">&nbsp;</div>
+		<label>City</label>	<input type="text" id="city" size="50" />
+      		<div class="formAnnotation">&nbsp;</div>
+		</div>
+      <br />
+      <div class="btnRegister"><a href="#" onclick="registerMe();" >REGISTER</a></div>
+	</form>
+</div>

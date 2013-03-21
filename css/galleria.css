@@ -1,0 +1,42 @@
+.galleria{list-style:none;width:200px}
+.galleria li{display:block;width:80px;height:80px;overflow:hidden;float:left;margin:0 10px 10px 0}
+.galleria li a{display:none}
+.galleria li div{position:absolute;display:none;top:0;left:180px}
+.galleria li div img{cursor:pointer}
+.galleria li.active div img,.galleria li.active div{display:block}
+.galleria li img.thumb{cursor:pointer;top:auto;left:auto;display:block;width:auto;height:auto}
+.galleria li .caption{display:block;padding-top:.5em}
+* html .galleria li div span{width:400px} /* MSIE bug */
+
+
+.gallery{width:80%;margin:0 auto;}
+.gallery li{width:68px;height:50px;border:3px double #111;margin: 0 2px;background:#000;}
+.gallery li div{left:240px}
+.gallery li div .caption{font:italic 0.7em/1.4 georgia,serif;}
+#mainImage{
+	margin:0 auto;
+	width:550px;
+	height:400px;
+	background:none;
+}
+#nav {
+}
+.btnPrev {	width:60px;		height:63px;	margin:0 auto; padding-right:20px;}
+.btnPrev a {display: block;	width: 40px;	height: 63px;	background:url(images/left.png) top left no-repeat;}
+.btnPrev a:hover {	background-position: top right; }
+.btnNext {	width:60px;		height:63px;	margin:0 auto; padding-left:20px;}
+.btnNext a {display: block;	width: 40px;	height: 63px;	background:url(images/right.png) top left no-repeat;}
+.btnNext a:hover {	background-position: top right; }
+
+
+.caption {
+	font-weight:normal;
+	background:#000;
+	color:#FFF
+	overflow:auto;
+	text-align:center;
+	width:550px;
+	margin:-10px auto 10px auto;
+}
+#mainImage img{margin-bottom:10px;}
+#thumb {margin:30px auto; clear:both; height:auto}
